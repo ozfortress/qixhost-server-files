@@ -1,0 +1,87 @@
+L 01/07/2022 - 14:33:26: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220107.log") (Version "1.10.0.6528")
+L 01/07/2022 - 14:33:26: -------- Mapchange to pl_cornwater_b6d --------
+L 01/07/2022 - 14:33:32: [soap_tf2dm.smx] Map spawns missing. Map: pl_cornwater_b6d. SteamWorks is not installed, we can't try to download them!
+L 01/07/2022 - 14:33:32: [soap_tf2dm.smx] No config for: pl_cornwater_b6d, searching for fallback...
+L 01/07/2022 - 14:33:32: [soap_tf2dm.smx] Cleaned map pl_cornwater.
+L 01/07/2022 - 14:33:32: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/07/2022 - 14:33:32: [soap_tf2dm.smx] No configuration found for pl_cornwater_b6d, no fallback map found. Using default spawns.
+L 01/07/2022 - 14:34:36: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/07/2022 - 14:34:36: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/07/2022 - 14:41:36: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/07/2022 - 14:41:36: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/07/2022 - 14:42:53: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/07/2022 - 14:42:53: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/07/2022 - 14:43:38: [medicstats.smx] Wrong player-healed event detected: patient=5/3, healer=0/0
+L 01/07/2022 - 14:43:38: [supstats2.smx] Wrong player-healed event detected: patient=5/3, healer=0/0
+L 01/07/2022 - 14:44:23: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/07/2022 - 14:44:23: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/07/2022 - 14:44:59: [medicstats.smx] Wrong player-healed event detected: patient=5/3, healer=0/0
+L 01/07/2022 - 14:44:59: [supstats2.smx] Wrong player-healed event detected: patient=5/3, healer=0/0
+L 01/07/2022 - 14:47:34: [medicstats.smx] Wrong player-healed event detected: patient=5/3, healer=0/0
+L 01/07/2022 - 14:47:34: [supstats2.smx] Wrong player-healed event detected: patient=5/3, healer=0/0
+L 01/07/2022 - 14:47:46: [medicstats.smx] Wrong player-healed event detected: patient=5/3, healer=0/0
+L 01/07/2022 - 14:47:46: [supstats2.smx] Wrong player-healed event detected: patient=5/3, healer=0/0
+L 01/07/2022 - 14:53:15: -------- Mapchange to pl_cornwater_b6c --------
+L 01/07/2022 - 14:53:21: [soap_tf2dm.smx] Map spawns missing. Map: pl_cornwater_b6c. SteamWorks is not installed, we can't try to download them!
+L 01/07/2022 - 14:53:21: [soap_tf2dm.smx] No config for: pl_cornwater_b6c, searching for fallback...
+L 01/07/2022 - 14:53:21: [soap_tf2dm.smx] Cleaned map pl_cornwater.
+L 01/07/2022 - 14:53:21: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/07/2022 - 14:53:21: [soap_tf2dm.smx] No configuration found for pl_cornwater_b6c, no fallback map found. Using default spawns.
+L 01/07/2022 - 14:55:51: [medicstats.smx] Wrong player-healed event detected: patient=63/4, healer=0/0
+L 01/07/2022 - 14:55:51: [supstats2.smx] Wrong player-healed event detected: patient=63/4, healer=0/0
+L 01/07/2022 - 14:56:43: [medicstats.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 14:56:43: [supstats2.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 14:56:48: [medicstats.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 14:56:48: [supstats2.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 14:57:06: [medicstats.smx] Wrong player-healed event detected: patient=51/12, healer=0/0
+L 01/07/2022 - 14:57:06: [supstats2.smx] Wrong player-healed event detected: patient=51/12, healer=0/0
+L 01/07/2022 - 14:58:59: [medicstats.smx] Wrong player-healed event detected: patient=56/17, healer=0/0
+L 01/07/2022 - 14:58:59: [supstats2.smx] Wrong player-healed event detected: patient=56/17, healer=0/0
+L 01/07/2022 - 14:59:32: [medicstats.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 14:59:32: [supstats2.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 14:59:44: [medicstats.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 14:59:44: [supstats2.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 15:00:14: [medicstats.smx] Wrong player-healed event detected: patient=64/5, healer=0/0
+L 01/07/2022 - 15:00:14: [supstats2.smx] Wrong player-healed event detected: patient=64/5, healer=0/0
+L 01/07/2022 - 15:00:19: [medicstats.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 15:00:19: [supstats2.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 15:03:34: [medicstats.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 15:03:34: [supstats2.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 15:03:45: [medicstats.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 15:03:45: [supstats2.smx] Wrong player-healed event detected: patient=59/20, healer=0/0
+L 01/07/2022 - 15:03:50: [medicstats.smx] Wrong player-healed event detected: patient=57/18, healer=0/0
+L 01/07/2022 - 15:03:50: [supstats2.smx] Wrong player-healed event detected: patient=57/18, healer=0/0
+L 01/07/2022 - 15:04:00: [medicstats.smx] Wrong player-healed event detected: patient=57/18, healer=0/0
+L 01/07/2022 - 15:04:00: [supstats2.smx] Wrong player-healed event detected: patient=57/18, healer=0/0
+L 01/07/2022 - 15:04:05: [medicstats.smx] Wrong player-healed event detected: patient=57/18, healer=0/0
+L 01/07/2022 - 15:04:05: [supstats2.smx] Wrong player-healed event detected: patient=57/18, healer=0/0
+L 01/07/2022 - 15:04:50: [medicstats.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 15:04:50: [supstats2.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 15:04:57: [medicstats.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 15:04:57: [supstats2.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 15:05:04: [medicstats.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 15:05:04: [supstats2.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 15:05:50: [medicstats.smx] Wrong player-healed event detected: patient=51/12, healer=0/0
+L 01/07/2022 - 15:05:50: [supstats2.smx] Wrong player-healed event detected: patient=51/12, healer=0/0
+L 01/07/2022 - 15:05:57: [medicstats.smx] Wrong player-healed event detected: patient=54/15, healer=0/0
+L 01/07/2022 - 15:05:57: [supstats2.smx] Wrong player-healed event detected: patient=54/15, healer=0/0
+L 01/07/2022 - 15:06:00: [medicstats.smx] Wrong player-healed event detected: patient=54/15, healer=0/0
+L 01/07/2022 - 15:06:00: [supstats2.smx] Wrong player-healed event detected: patient=54/15, healer=0/0
+L 01/07/2022 - 15:06:09: [medicstats.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 15:06:09: [supstats2.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 15:06:34: [medicstats.smx] Wrong player-healed event detected: patient=57/18, healer=0/0
+L 01/07/2022 - 15:06:34: [supstats2.smx] Wrong player-healed event detected: patient=57/18, healer=0/0
+L 01/07/2022 - 15:07:10: [medicstats.smx] Wrong player-healed event detected: patient=54/15, healer=0/0
+L 01/07/2022 - 15:07:10: [supstats2.smx] Wrong player-healed event detected: patient=54/15, healer=0/0
+L 01/07/2022 - 15:07:14: [medicstats.smx] Wrong player-healed event detected: patient=54/15, healer=0/0
+L 01/07/2022 - 15:07:14: [supstats2.smx] Wrong player-healed event detected: patient=54/15, healer=0/0
+L 01/07/2022 - 15:08:08: [medicstats.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 15:08:08: [supstats2.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 15:08:09: [medicstats.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 15:08:09: [supstats2.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 15:08:14: [medicstats.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 15:08:14: [supstats2.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 15:08:24: [medicstats.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 15:08:24: [supstats2.smx] Wrong player-healed event detected: patient=53/14, healer=0/0
+L 01/07/2022 - 15:08:29: [medicstats.smx] Wrong player-healed event detected: patient=55/16, healer=0/0
+L 01/07/2022 - 15:08:29: [supstats2.smx] Wrong player-healed event detected: patient=55/16, healer=0/0

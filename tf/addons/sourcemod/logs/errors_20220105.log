@@ -1,0 +1,12 @@
+L 01/05/2022 - 07:09:08: SourceMod error session started
+L 01/05/2022 - 07:09:08: Info (map "cp_yukon_final") (file "/home/server/tf2/tf/addons/sourcemod/logs/errors_20220105.log")
+L 01/05/2022 - 07:09:08: [SM] Unable to load extension "dhooks.ext": /home/server/tf2/tf/addons/sourcemod/extensions/dhooks.ext.so: cannot open shared object file: No such file or directory
+L 01/05/2022 - 07:09:08: [SM] Unable to load plugin "tf2-comp-fixes.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 01/05/2022 - 07:24:14: Error log file session closed.
+L 01/05/2022 - 07:35:02: SourceMod error session started
+L 01/05/2022 - 07:35:02: Info (map "cp_gullywash_final1") (file "/home/server/tf2/tf/addons/sourcemod/logs/errors_20220105.log")
+L 01/05/2022 - 07:35:02: [logstf.smx] Error uploading logs: Log update failed: Updated too quickly (10sec limit)
+L 01/05/2022 - 09:26:01: SourceMod error session started
+L 01/05/2022 - 09:26:01: Info (map "plr_pipeline") (file "/home/server/tf2/tf/addons/sourcemod/logs/errors_20220105.log")
+L 01/05/2022 - 09:26:01: [SM] Unable to load extension "dhooks.ext": /home/server/tf2/tf/addons/sourcemod/extensions/dhooks.ext.so: cannot open shared object file: No such file or directory
+L 01/05/2022 - 09:26:01: [SM] Unable to load plugin "tf2-comp-fixes.smx": Required extension "dhooks" file("dhooks.ext") not running

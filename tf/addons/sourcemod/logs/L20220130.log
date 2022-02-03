@@ -1,0 +1,539 @@
+L 01/30/2022 - 00:19:50: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220130.log") (Version "1.10.0.6528")
+L 01/30/2022 - 00:19:50: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 00:20:02: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220130.log") (Version "1.10.0.6528")
+L 01/30/2022 - 00:20:02: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 00:20:27: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220130.log") (Version "1.10.0.6528")
+L 01/30/2022 - 00:20:27: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 00:21:10: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 00:21:21: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 00:21:47: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 00:25:12: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220130.log") (Version "1.10.0.6528")
+L 01/30/2022 - 00:25:12: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 00:26:11: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 00:51:21: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 00:51:32: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 00:51:58: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 00:52:41: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 00:52:52: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 00:53:17: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 00:56:23: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 00:57:22: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 01:22:52: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 01:23:03: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 01:23:28: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 01:24:11: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 01:24:22: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 01:24:49: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 01:27:33: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 01:28:31: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 01:54:22: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 01:54:34: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 01:55:00: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 01:55:41: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 01:55:52: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 01:56:18: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 01:58:42: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 01:59:42: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 02:25:53: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 02:26:03: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 02:26:30: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 02:27:11: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 02:27:21: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 02:27:49: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 02:29:53: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 02:30:50: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 02:57:22: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 02:57:32: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 02:58:00: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 02:58:39: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 02:58:49: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 02:59:17: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 03:01:01: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 03:01:59: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 03:28:50: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 03:29:00: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 03:29:28: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 03:30:10: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 03:30:19: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 03:30:45: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 03:32:10: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 03:33:07: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 04:00:21: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 04:00:30: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 04:00:56: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 04:01:37: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 04:01:47: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 04:02:13: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 04:03:18: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 04:04:18: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 04:19:47: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/30/2022 - 04:19:47: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/30/2022 - 04:19:55: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/30/2022 - 04:19:55: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/30/2022 - 04:20:40: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/30/2022 - 04:20:40: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/30/2022 - 04:21:15: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/30/2022 - 04:21:15: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/30/2022 - 04:23:16: -------- Mapchange to cp_process_f9a --------
+L 01/30/2022 - 04:23:22: [soap_tf2dm.smx] Map spawns missing. Map: cp_process_f9a. SteamWorks is not installed, we can't try to download them!
+L 01/30/2022 - 04:23:22: [soap_tf2dm.smx] No config for: cp_process_f9a, searching for fallback...
+L 01/30/2022 - 04:23:22: [soap_tf2dm.smx] Cleaned map cp_process.
+L 01/30/2022 - 04:23:22: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/30/2022 - 04:23:22: [soap_tf2dm.smx] Found near match cp_process_final.cfg.
+L 01/30/2022 - 04:23:22: [soap_tf2dm.smx] Found near match cp_process_f5.cfg.
+L 01/30/2022 - 04:23:22: [soap_tf2dm.smx] Found near match cp_process_f7.cfg.
+L 01/30/2022 - 04:23:22: [soap_tf2dm.smx] No configuration found for cp_process_f9a, loading fallback configuration from cp_process_f7.cfg.
+L 01/30/2022 - 04:24:14: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:24:14: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:24:28: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:24:28: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:25:13: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:25:13: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:25:35: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:25:35: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:25:40: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:25:40: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:25:59: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:25:59: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:26:32: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:26:32: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:26:35: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:26:35: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:26:43: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:26:43: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:27:19: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:27:19: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:27:49: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:27:49: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:29:21: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:29:21: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:29:55: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:29:55: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:31:48: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 04:31:58: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 04:32:15: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:32:15: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:32:24: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 04:33:06: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 04:33:16: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 04:33:42: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 04:34:13: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:34:13: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:35:31: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:35:31: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:35:44: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:35:44: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:36:14: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:36:14: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:37:43: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:37:43: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:38:17: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:38:17: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:40:28: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:40:28: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:41:16: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:41:16: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:41:19: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:41:19: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:41:34: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:41:34: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:41:46: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:41:46: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:42:06: [medicstats.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:42:06: [supstats2.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:42:09: [medicstats.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:42:09: [supstats2.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:42:12: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:42:12: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:42:22: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:42:22: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:42:31: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:42:31: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:42:35: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:42:35: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:42:56: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:42:56: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:43:28: [medicstats.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:43:28: [supstats2.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:43:40: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:43:40: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:43:51: [medicstats.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:43:51: [supstats2.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:43:53: [medicstats.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:43:53: [supstats2.smx] Wrong player-healed event detected: patient=6/2, healer=0/0
+L 01/30/2022 - 04:44:48: [medicstats.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:44:48: [supstats2.smx] Wrong player-healed event detected: patient=8/4, healer=0/0
+L 01/30/2022 - 04:50:24: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:50:24: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:50:39: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:50:39: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:50:43: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:50:43: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:51:02: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:51:02: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:51:22: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:51:22: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:52:16: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:52:16: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:52:56: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:52:56: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:53:20: [medicstats.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:53:20: [supstats2.smx] Wrong player-healed event detected: patient=7/3, healer=0/0
+L 01/30/2022 - 04:53:27: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 04:54:29: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 04:56:15: -------- Mapchange to cp_snakewater_final1 --------
+L 01/30/2022 - 04:59:52: [medicstats.smx] Wrong player-healed event detected: patient=13/3, healer=0/0
+L 01/30/2022 - 04:59:52: [supstats2.smx] Wrong player-healed event detected: patient=13/3, healer=0/0
+L 01/30/2022 - 05:00:09: [medicstats.smx] Wrong player-healed event detected: patient=13/3, healer=0/0
+L 01/30/2022 - 05:00:09: [supstats2.smx] Wrong player-healed event detected: patient=13/3, healer=0/0
+L 01/30/2022 - 05:01:05: [medicstats.smx] Wrong player-healed event detected: patient=14/4, healer=0/0
+L 01/30/2022 - 05:01:05: [supstats2.smx] Wrong player-healed event detected: patient=14/4, healer=0/0
+L 01/30/2022 - 05:01:38: [medicstats.smx] Wrong player-healed event detected: patient=14/4, healer=0/0
+L 01/30/2022 - 05:01:38: [supstats2.smx] Wrong player-healed event detected: patient=14/4, healer=0/0
+L 01/30/2022 - 05:03:05: [medicstats.smx] Wrong player-healed event detected: patient=12/2, healer=0/0
+L 01/30/2022 - 05:03:05: [supstats2.smx] Wrong player-healed event detected: patient=12/2, healer=0/0
+L 01/30/2022 - 05:03:15: [medicstats.smx] Wrong player-healed event detected: patient=12/2, healer=0/0
+L 01/30/2022 - 05:03:15: [supstats2.smx] Wrong player-healed event detected: patient=12/2, healer=0/0
+L 01/30/2022 - 05:03:17: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 05:03:20: [medicstats.smx] Wrong player-healed event detected: patient=14/4, healer=0/0
+L 01/30/2022 - 05:03:20: [supstats2.smx] Wrong player-healed event detected: patient=14/4, healer=0/0
+L 01/30/2022 - 05:03:27: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 05:03:28: [medicstats.smx] Wrong player-healed event detected: patient=13/3, healer=0/0
+L 01/30/2022 - 05:03:28: [supstats2.smx] Wrong player-healed event detected: patient=13/3, healer=0/0
+L 01/30/2022 - 05:03:53: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 05:04:38: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 05:04:42: -------- Mapchange to cp_gullywash_f6 --------
+L 01/30/2022 - 05:04:48: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 05:04:48: [soap_tf2dm.smx] Map spawns missing. Map: cp_gullywash_f6. SteamWorks is not installed, we can't try to download them!
+L 01/30/2022 - 05:04:48: [soap_tf2dm.smx] No config for: cp_gullywash_f6, searching for fallback...
+L 01/30/2022 - 05:04:48: [soap_tf2dm.smx] Cleaned map cp_gullywash.
+L 01/30/2022 - 05:04:48: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/30/2022 - 05:04:48: [soap_tf2dm.smx] Found near match cp_gullywash_final1.cfg.
+L 01/30/2022 - 05:04:48: [soap_tf2dm.smx] Found near match cp_gullywash_f1a.cfg.
+L 01/30/2022 - 05:04:48: [soap_tf2dm.smx] No configuration found for cp_gullywash_f6, loading fallback configuration from cp_gullywash_f1a.cfg.
+L 01/30/2022 - 05:05:15: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 05:06:07: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:06:07: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:07:23: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:07:23: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:09:01: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:09:01: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:09:08: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:09:08: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:09:37: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:09:37: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:09:57: [medicstats.smx] Wrong player-healed event detected: patient=16/3, healer=0/0
+L 01/30/2022 - 05:09:57: [supstats2.smx] Wrong player-healed event detected: patient=16/3, healer=0/0
+L 01/30/2022 - 05:19:00: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:19:00: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:19:14: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:19:14: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:19:35: [medicstats.smx] Wrong player-healed event detected: patient=16/3, healer=0/0
+L 01/30/2022 - 05:19:35: [supstats2.smx] Wrong player-healed event detected: patient=16/3, healer=0/0
+L 01/30/2022 - 05:23:30: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:23:30: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:23:41: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:23:41: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:23:44: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:23:44: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:25:58: [medicstats.smx] Wrong player-healed event detected: patient=15/2, healer=0/0
+L 01/30/2022 - 05:25:58: [supstats2.smx] Wrong player-healed event detected: patient=15/2, healer=0/0
+L 01/30/2022 - 05:29:26: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:29:26: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:30:59: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:30:59: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:31:28: [medicstats.smx] Wrong player-healed event detected: patient=15/2, healer=0/0
+L 01/30/2022 - 05:31:28: [supstats2.smx] Wrong player-healed event detected: patient=15/2, healer=0/0
+L 01/30/2022 - 05:32:59: [medicstats.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:32:59: [supstats2.smx] Wrong player-healed event detected: patient=17/4, healer=0/0
+L 01/30/2022 - 05:34:50: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 05:34:59: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 05:35:26: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 05:36:12: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 05:36:21: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 05:36:49: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 06:05:14: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220130.log") (Version "1.10.0.6528")
+L 01/30/2022 - 06:05:14: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 06:06:23: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 06:06:33: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 06:07:01: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 06:07:13: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 06:07:50: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 06:07:56: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 06:08:26: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 06:37:26: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 06:37:56: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 06:38:01: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 06:38:07: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 06:38:37: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 06:39:20: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 06:39:26: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 06:39:58: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 07:08:07: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 07:08:37: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 07:09:31: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 07:09:37: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 07:10:09: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 07:10:50: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 07:10:55: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 07:11:28: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 07:38:48: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 07:39:18: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 07:41:01: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 07:41:06: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 07:41:39: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 07:42:21: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 07:42:25: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 07:42:58: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 08:09:29: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 08:10:00: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 08:12:32: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 08:12:36: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 08:13:09: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 08:13:51: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 08:13:54: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 08:14:28: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 08:40:11: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 08:40:42: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 08:44:03: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 08:44:05: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 08:44:39: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 08:45:25: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 08:45:26: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 08:45:58: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 09:10:53: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 09:11:25: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 09:15:36: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 09:15:37: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 09:16:10: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 09:16:56: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 09:16:57: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 09:17:29: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 09:41:36: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 09:42:08: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 09:47:08: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 09:47:09: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 09:47:40: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 09:48:26: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 09:48:26: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 09:48:59: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 10:12:19: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 10:12:52: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 10:18:37: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 10:18:38: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 10:19:10: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 10:19:56: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 10:19:56: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 10:20:28: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 10:43:03: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 10:43:36: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 10:50:07: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 10:50:08: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 10:50:39: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 10:51:27: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 10:51:28: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 10:51:58: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 11:13:47: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 11:14:20: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 11:21:38: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 11:21:39: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 11:22:09: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 11:22:59: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 11:23:01: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 11:23:29: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 11:44:32: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 11:45:05: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 11:53:10: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 11:53:13: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 11:53:40: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 11:54:29: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 11:54:32: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 11:55:01: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 12:15:17: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 12:15:50: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 12:24:40: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 12:24:43: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 12:25:12: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 12:26:00: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 12:26:02: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 12:26:31: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 12:46:01: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 12:46:35: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 12:56:11: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 12:56:13: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 12:56:42: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 12:57:30: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 12:57:32: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 12:58:01: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 13:16:46: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 13:17:20: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 13:27:41: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 13:27:44: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 13:28:13: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 13:29:00: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 13:29:02: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 13:29:32: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 13:47:31: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 13:48:05: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 13:59:11: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 13:59:14: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 13:59:43: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 14:00:27: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 14:00:32: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 14:00:59: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 14:18:16: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 14:18:49: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 14:30:38: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 14:30:43: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 14:31:10: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 14:31:55: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 14:32:01: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 14:32:28: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 14:49:00: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 14:49:34: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 15:02:07: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 15:02:12: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 15:02:39: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 15:03:24: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 15:03:30: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 15:03:57: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 15:19:45: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 15:20:19: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 15:33:35: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 15:33:41: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 15:34:08: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 15:34:52: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 15:34:58: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 15:35:25: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 15:50:30: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 15:51:04: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 16:05:03: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 16:05:09: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 16:05:36: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 16:06:19: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 16:06:26: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 16:06:52: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 16:21:15: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 16:21:49: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 16:36:30: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 16:36:37: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 16:37:03: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 16:37:47: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 16:37:55: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 16:38:19: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 16:52:00: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 16:52:35: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 17:07:59: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 17:08:07: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 17:08:30: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 17:09:16: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 17:09:25: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 17:09:47: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 17:22:46: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 17:23:22: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 17:39:27: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 17:39:36: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 17:39:58: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 17:40:44: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 17:40:54: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 17:41:15: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 17:53:33: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 17:54:09: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 18:10:56: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 18:11:05: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 18:11:26: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 18:12:14: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 18:12:23: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 18:12:43: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 18:24:20: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 18:24:57: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 18:42:25: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 18:42:34: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 18:42:54: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 18:43:44: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 18:43:54: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 18:44:12: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 18:55:08: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 18:55:46: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 19:13:55: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 19:14:05: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 19:14:23: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 19:15:16: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 19:15:26: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 19:15:44: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 19:25:57: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 19:26:34: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 19:45:27: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 19:45:37: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 19:45:56: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 19:46:48: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 19:46:58: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 19:47:18: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 19:56:45: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 19:57:23: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 20:16:59: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 20:17:10: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 20:17:29: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 20:18:15: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 20:18:27: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 20:18:47: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 20:27:34: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 20:28:11: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 20:48:26: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 20:48:38: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 20:48:58: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 20:49:44: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 20:49:56: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 20:50:17: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 20:58:22: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 20:59:00: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 21:19:55: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 21:20:08: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 21:20:28: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 21:21:14: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 21:21:25: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 21:21:47: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 21:29:11: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 21:29:48: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 21:51:25: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 21:51:37: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 21:51:58: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 21:52:44: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 21:52:55: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 21:53:15: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 21:59:59: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 22:00:37: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 22:22:55: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 22:23:06: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 22:23:27: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 22:24:13: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 22:24:25: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 22:24:45: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 22:30:48: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 22:31:26: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 22:54:24: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 22:54:36: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 22:54:56: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 22:55:41: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 22:55:54: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 22:56:14: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 23:01:37: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 23:02:16: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 23:25:53: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 23:26:05: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 23:26:25: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 23:27:10: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 23:27:23: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 23:27:43: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 23:32:27: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 23:33:05: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 23:57:21: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 23:57:34: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 23:57:54: [SM] Changed map to "cp_badlands"
+L 01/30/2022 - 23:58:38: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 23:58:52: -------- Mapchange to cp_badlands --------
+L 01/30/2022 - 23:59:12: -------- Mapchange to cp_badlands --------
+L 01/31/2022 - 00:03:17: Log file closed.
+L 01/31/2022 - 00:28:49: Log file closed.
+L 01/31/2022 - 00:29:03: Log file closed.
+L 01/31/2022 - 00:29:23: Log file closed.

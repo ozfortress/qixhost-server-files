@@ -1,0 +1,1338 @@
+L 01/21/2022 - 00:02:25: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220121.log") (Version "1.10.0.6528")
+L 01/21/2022 - 00:02:25: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 00:02:27: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 00:24:56: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220121.log") (Version "1.10.0.6528")
+L 01/21/2022 - 00:24:56: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 00:24:59: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 00:25:07: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220121.log") (Version "1.10.0.6528")
+L 01/21/2022 - 00:25:07: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 00:25:10: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 00:25:12: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220121.log") (Version "1.10.0.6528")
+L 01/21/2022 - 00:25:12: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 00:25:15: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 00:32:38: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 00:32:41: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 00:55:10: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 00:55:14: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 00:55:21: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 00:55:24: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 00:55:27: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 00:55:30: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 01:02:53: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 01:02:56: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 01:25:25: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 01:25:29: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 01:25:36: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 01:25:39: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 01:25:41: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 01:25:45: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 01:33:07: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 01:33:11: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 01:55:40: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 01:55:44: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 01:55:51: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 01:55:55: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 01:55:56: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 01:56:00: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 02:03:22: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 02:03:26: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 02:25:56: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 02:25:59: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 02:26:06: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 02:26:11: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 02:26:12: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 02:26:16: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 02:33:38: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 02:33:42: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 02:56:11: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 02:56:16: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 02:56:22: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 02:56:27: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 02:56:29: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 02:56:33: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 03:03:53: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 03:03:58: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 03:26:28: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 03:26:32: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 03:26:39: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 03:26:44: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 03:26:45: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 03:26:50: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 03:34:10: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 03:34:14: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 03:56:45: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 03:56:50: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 03:56:56: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 03:57:01: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 03:57:03: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 03:57:07: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 04:04:26: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 04:04:31: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 04:27:02: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 04:27:08: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 04:27:14: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 04:27:20: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 04:27:20: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 04:27:25: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 04:34:43: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 04:34:49: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 04:57:21: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 04:57:26: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 04:57:32: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 04:57:38: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 04:57:38: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 04:57:44: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 05:05:01: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 05:05:07: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 05:27:39: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 05:27:45: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 05:27:51: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 05:27:57: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 05:27:57: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 05:28:03: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 05:35:19: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 05:35:25: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 05:57:58: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 05:58:04: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 05:58:10: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 05:58:16: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 05:58:17: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 05:58:22: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 06:05:38: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 06:05:44: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 06:28:18: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 06:28:24: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 06:28:30: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 06:28:36: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 06:28:37: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 06:28:42: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 06:35:57: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 06:36:04: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 06:58:38: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 06:58:45: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 06:58:50: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 06:58:56: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 06:58:58: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 06:59:03: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 07:06:17: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 07:06:24: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 07:28:58: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 07:29:06: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 07:29:11: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 07:29:16: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 07:29:19: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 07:29:24: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 07:36:37: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 07:36:44: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 07:59:20: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 07:59:28: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 07:59:33: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 07:59:38: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 07:59:41: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 07:59:45: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 08:06:58: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 08:07:05: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 08:29:42: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 08:29:50: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 08:29:55: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 08:30:00: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 08:30:03: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 08:30:08: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 08:37:19: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 08:37:27: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 09:00:04: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 09:00:12: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 09:00:17: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 09:00:22: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 09:00:26: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 09:00:31: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 09:01:14: -------- Mapchange to cp_snakewater_final1 --------
+L 01/21/2022 - 09:01:50: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:01:50: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:01:52: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:01:52: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:01:55: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:01:55: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:02:08: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:08: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:09: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:02:09: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:02:27: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:27: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:29: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:02:29: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:02:35: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:02:35: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:02:36: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:02:36: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:02:39: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:39: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:42: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:42: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:48: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:48: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:52: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:02:52: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:02:54: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:02:54: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:02:57: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:02:57: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:03:04: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:03:04: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:03:17: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:03:17: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:03:20: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:03:20: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:03:22: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:03:22: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:03:30: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:03:30: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:03:34: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:03:34: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:03:35: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:03:35: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:03:46: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:03:46: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:03:48: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:03:48: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:03:50: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:03:50: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:03:56: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:03:56: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:01: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:04:01: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:04:01: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:01: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:07: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:07: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:18: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:18: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:24: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:24: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:29: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:29: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:37: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:37: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:50: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:04:50: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:04:52: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:52: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:59: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:04:59: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:05:06: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:05:06: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:05:06: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:05:06: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:05:14: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:05:14: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:05:20: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:05:20: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:05:28: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:05:28: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:05:28: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:05:28: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:05:31: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:05:31: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:05:32: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:05:32: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:05:34: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:05:34: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:05:36: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:05:36: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:05:37: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:05:37: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:05:40: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:05:40: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:05:42: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:05:42: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:05:48: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:05:48: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:05:50: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:05:50: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:05:56: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:05:56: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:06:00: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:00: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:01: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:06:01: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:06:04: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:06:04: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:06:12: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:12: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:14: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:06:14: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:06:19: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:19: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:19: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:06:19: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:06:30: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:06:30: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:06:30: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:06:30: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:06:34: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:06:34: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:06:34: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:34: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:37: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:06:37: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:06:38: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:06:38: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:06:40: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:40: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:06:44: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:06:44: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:06:53: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:06:53: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:02: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:02: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:03: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:03: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:05: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:07:05: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:07:08: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:08: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:12: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:12: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:14: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:07:14: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:07:17: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:07:17: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:07:18: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:18: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:19: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:19: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:27: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:07:27: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:07:30: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:30: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:32: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:32: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:36: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:36: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:41: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:41: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:44: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:44: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:49: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:07:49: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:07:49: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:49: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:07:54: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:07:54: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:07:58: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:07:58: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:08:01: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:08:01: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:08:02: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:08:02: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:08:05: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:08:05: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:08:07: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:08:07: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:08:09: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:08:09: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:08:09: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:08:09: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:08:10: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:08:10: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:08:12: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:08:12: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:08:16: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:08:16: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:08:17: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:08:17: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:08:20: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:08:20: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:08:20: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:08:20: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:08:24: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:08:24: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:08:26: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:08:26: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:08:27: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:08:27: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:08:44: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:08:44: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:08:50: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:08:50: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:08:50: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:08:50: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:08:55: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:08:55: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:08:55: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:08:55: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:09:02: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:02: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:08: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:08: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:11: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:09:11: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:09:14: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:14: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:17: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:17: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:18: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:09:18: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:09:26: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:09:26: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:09:26: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:26: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:32: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:09:32: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:09:33: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:33: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:38: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:09:38: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:09:39: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:09:39: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:09:42: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:09:42: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:09:47: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:47: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:55: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:09:55: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:00: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:00: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:04: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:10:04: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:10:07: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:07: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:08: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:10:08: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:10:13: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:10:13: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:10:14: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:10:14: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:10:20: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:20: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:22: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:10:22: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:10:31: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:10:31: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:10:32: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:32: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:34: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:10:34: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:10:42: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:10:42: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:10:50: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:10:50: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:10:50: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:10:50: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:10:51: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:51: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:10:55: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:10:55: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:11:04: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:11:04: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:11:04: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:11:04: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:11:06: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:11:06: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:11:10: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:11:10: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:11:12: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:11:12: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:11:16: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:11:16: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:11:16: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:11:16: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:11:20: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:11:20: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:11:28: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:11:28: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:11:31: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:11:31: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:11:38: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:11:38: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:11:51: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:11:51: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:11:59: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:11:59: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:11:59: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:11:59: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:12:05: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:12:05: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:12:11: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:12:11: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:12:18: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:12:18: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:12:28: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:12:28: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:12:32: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:12:32: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:12:38: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:12:38: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:12:42: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:12:42: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:12:43: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:12:43: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:12:44: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:12:44: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:12:47: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:12:47: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:12:49: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:12:49: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:12:53: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:12:53: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:12:55: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:12:55: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:12:55: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:12:55: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:13:01: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:13:01: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:13:14: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:13:14: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:13:16: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:13:16: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:13:17: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:13:17: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:13:27: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:13:27: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:13:28: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:13:28: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:13:30: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:13:30: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:13:32: [medicstats.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:13:32: [supstats2.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:13:34: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:13:34: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:13:58: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:13:58: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:13:58: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:13:58: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:14:00: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:14:00: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:14:01: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:14:01: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:14:14: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:14:14: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:14:17: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:14:17: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:14:27: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:14:27: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:14:30: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:14:30: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:14:36: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:14:36: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:14:38: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:14:38: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:14:43: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:14:43: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:14:46: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:14:46: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:14:49: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:14:49: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:14:54: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:14:54: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:15:03: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:15:03: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:15:06: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:15:06: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:15:10: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:15:10: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:15:12: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:15:12: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:15:25: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:15:25: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:15:41: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:15:41: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:15:57: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:15:57: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:16:17: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:16:17: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:16:32: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:16:32: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:16:34: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:16:34: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:16:35: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:16:35: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:17:06: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:17:06: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:17:10: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:17:10: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:17:20: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:17:20: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:17:20: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:17:20: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:17:29: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:17:29: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:17:32: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:17:32: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:17:36: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:17:36: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:17:37: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:17:37: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:17:41: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:17:41: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:17:46: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:17:46: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:17:56: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:17:56: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:18:00: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:18:00: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:18:17: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:18:17: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:18:17: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:18:17: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:18:22: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:18:22: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:18:24: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:18:24: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:18:32: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:18:32: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:18:34: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:18:34: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:18:41: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:18:41: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:18:54: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:18:54: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:18:56: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:18:56: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:18:56: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:18:56: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:19:07: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:19:07: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:19:11: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:19:11: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:19:18: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:19:18: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:19:24: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:19:24: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:19:30: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:19:30: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:20:02: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:20:02: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:20:13: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:20:13: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:20:27: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:20:27: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:20:44: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:20:44: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:20:46: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:20:46: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:20:46: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:20:46: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:20:48: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:20:48: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:21:00: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:21:00: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:21:00: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:21:00: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:21:10: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:21:10: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:21:16: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:21:16: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:21:22: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:21:22: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:21:29: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:21:29: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:21:32: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:21:32: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:21:44: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:21:44: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:21:47: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:21:47: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:21:58: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:21:58: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:22:03: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:22:03: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:22:03: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:22:03: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:22:06: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:22:06: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:22:08: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:22:08: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:22:15: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:22:15: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:22:18: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:22:18: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:22:25: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:22:25: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:22:37: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:22:37: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:22:52: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:22:52: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:22:57: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:22:57: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:23:02: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:23:02: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:23:33: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:23:33: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:23:35: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:23:35: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:23:42: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:23:42: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:23:49: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:23:49: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:23:53: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:23:53: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:23:56: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:23:56: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:24:01: [medicstats.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:24:01: [supstats2.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:24:02: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:24:02: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:24:04: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:24:04: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:24:07: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:24:07: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:24:15: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:24:15: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:24:21: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:24:21: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:24:28: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:24:28: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:24:31: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:24:31: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:25:17: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:25:17: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:25:18: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:25:18: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:25:34: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:25:34: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:25:35: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:25:35: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:25:36: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:25:36: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:25:49: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:25:49: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:25:51: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:25:51: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:25:52: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:25:52: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:25:57: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:25:57: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:25:58: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:25:58: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:26:05: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:26:05: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:26:11: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:26:11: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:26:22: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:26:22: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:26:23: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:26:23: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:26:24: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:26:24: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:26:38: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:26:38: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:26:47: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:26:47: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:26:49: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:26:49: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:26:51: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:26:51: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:26:56: [medicstats.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:26:56: [supstats2.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:27:03: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:27:03: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:27:06: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:27:06: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:27:13: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:27:13: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:27:15: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:27:15: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:27:20: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:27:20: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:27:20: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:27:20: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:27:30: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:27:30: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:27:30: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:27:30: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:27:32: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:27:32: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:27:34: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:27:34: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:27:40: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:27:40: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:28:02: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:28:02: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:28:10: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:28:10: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:28:25: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:28:25: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:28:28: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:28:28: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:28:35: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:28:35: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:29:00: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:29:00: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:29:02: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:29:02: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:29:12: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:29:12: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:29:16: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:29:16: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:29:17: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:29:17: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:29:31: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:29:31: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:29:32: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:29:32: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:29:39: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:29:39: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:29:42: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:29:42: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:29:42: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:29:42: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:29:45: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:29:45: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:29:51: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:29:51: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:29:52: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:29:52: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:29:53: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:29:53: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:29:55: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:29:55: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:29:57: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:29:57: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:29:59: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:29:59: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:29:59: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:29:59: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:30:02: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:30:02: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:30:12: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:30:12: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:30:15: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:30:15: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:30:18: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:30:18: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:30:21: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:30:21: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:30:26: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:30:26: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:30:27: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 09:30:30: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:30:30: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:30:31: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:30:31: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:30:36: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 09:30:37: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:30:37: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:30:40: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 09:30:44: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:30:44: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:30:46: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 09:30:49: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 09:30:49: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:30:49: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:30:53: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:30:53: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:30:54: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:30:54: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:30:54: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 09:30:58: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:30:58: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:30:58: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:30:58: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:31:09: [medicstats.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:31:09: [supstats2.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:31:18: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:31:18: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:31:27: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:31:27: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:31:34: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:31:34: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:31:58: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:31:58: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:32:05: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:32:05: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:32:06: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:32:06: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:32:10: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:32:10: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:32:15: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:32:15: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:32:15: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:32:15: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:32:28: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:32:28: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:32:41: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:32:41: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:32:47: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:32:47: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:32:48: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:32:48: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:32:53: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:32:53: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:32:54: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:32:54: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:32:59: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:32:59: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:33:02: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:33:02: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:33:09: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:33:09: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:33:09: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:33:09: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:33:19: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:33:19: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:33:21: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:33:21: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:33:24: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:33:24: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:33:25: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:33:25: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:33:27: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:33:27: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:33:34: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:33:34: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:33:36: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:33:36: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:33:37: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:33:37: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:33:39: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:33:39: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:33:44: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:33:44: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:33:49: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:33:49: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:33:49: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:33:49: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:34:13: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:34:13: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:34:37: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:34:37: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:34:40: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:34:40: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:34:43: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:34:43: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:34:46: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:34:46: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:34:49: [medicstats.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:34:49: [supstats2.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:34:53: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:34:53: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:35:02: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:35:02: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:35:07: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:35:07: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:35:10: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:35:10: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:35:11: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:35:11: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:35:13: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:35:13: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:35:23: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:35:23: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:35:28: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:35:28: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:35:31: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:35:31: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:35:43: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:35:43: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:36:02: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:36:02: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:36:05: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:36:05: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:36:06: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:36:06: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:36:15: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:36:15: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:36:22: [medicstats.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:36:22: [supstats2.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:36:34: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:36:34: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:36:44: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:36:44: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:36:48: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:36:48: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:36:49: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:36:49: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:36:54: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:36:54: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:36:56: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:36:56: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:37:03: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:37:03: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:37:06: [medicstats.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:37:06: [supstats2.smx] Wrong player-healed event detected: patient=14/12, healer=0/0
+L 01/21/2022 - 09:37:41: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:37:41: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:38:00: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:38:00: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:38:12: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:38:12: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:38:16: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:38:16: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:38:35: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:38:35: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:38:39: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:38:39: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:38:46: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:38:46: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:38:59: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:38:59: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:39:00: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:39:00: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:39:03: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:39:03: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:39:07: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:39:07: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:39:15: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:39:15: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:39:15: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:39:15: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:39:15: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:39:15: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:39:25: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:39:25: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:39:30: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:39:30: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:39:37: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:39:37: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:39:39: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:39:39: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:39:44: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:39:44: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:39:48: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:39:48: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:40:10: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:40:10: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:40:20: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:40:20: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:40:23: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:40:23: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:40:24: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:40:24: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:40:40: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:40:40: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:40:43: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:40:43: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:40:48: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:40:48: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:40:53: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:40:53: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:40:59: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:40:59: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:41:00: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:41:00: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:41:06: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:41:06: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:41:07: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:41:07: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:41:13: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:41:13: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:41:14: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:41:14: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:41:20: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:41:20: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:41:23: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:41:23: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:41:28: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:41:28: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:41:37: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:41:37: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:41:38: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:41:38: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:41:48: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:41:48: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:41:50: [medicstats.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:41:50: [supstats2.smx] Wrong player-healed event detected: patient=10/9, healer=0/0
+L 01/21/2022 - 09:41:50: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:41:50: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:41:53: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:41:53: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:41:56: [medicstats.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:41:56: [supstats2.smx] Wrong player-healed event detected: patient=3/2, healer=0/0
+L 01/21/2022 - 09:41:59: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:41:59: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:42:04: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:42:04: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:42:09: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:42:09: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:42:09: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:42:09: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:42:16: [medicstats.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:42:16: [supstats2.smx] Wrong player-healed event detected: patient=9/8, healer=0/0
+L 01/21/2022 - 09:42:16: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:42:16: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:42:17: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:42:17: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:42:19: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:42:19: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:42:31: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:42:31: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:42:34: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:42:34: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:42:34: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:42:34: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:42:43: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:42:43: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:42:43: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:42:43: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:42:51: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:42:51: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:42:53: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:42:53: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:42:55: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:42:55: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:42:56: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:42:56: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:42:59: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:42:59: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:43:15: [medicstats.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:43:15: [supstats2.smx] Wrong player-healed event detected: patient=6/5, healer=0/0
+L 01/21/2022 - 09:43:19: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:43:19: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:43:36: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:43:36: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:43:37: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:43:37: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:43:37: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:43:37: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:43:53: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:43:53: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:43:58: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 09:44:03: [medicstats.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:44:03: [supstats2.smx] Wrong player-healed event detected: patient=4/3, healer=0/0
+L 01/21/2022 - 09:44:13: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:44:13: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:44:25: [medicstats.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:44:25: [supstats2.smx] Wrong player-healed event detected: patient=8/7, healer=0/0
+L 01/21/2022 - 09:44:43: [medicstats.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:44:43: [supstats2.smx] Wrong player-healed event detected: patient=5/4, healer=0/0
+L 01/21/2022 - 09:44:51: [medicstats.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:44:51: [supstats2.smx] Wrong player-healed event detected: patient=12/11, healer=0/0
+L 01/21/2022 - 09:44:55: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:44:55: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:45:00: [medicstats.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:45:00: [supstats2.smx] Wrong player-healed event detected: patient=7/6, healer=0/0
+L 01/21/2022 - 09:45:10: [medicstats.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:45:10: [supstats2.smx] Wrong player-healed event detected: patient=15/13, healer=0/0
+L 01/21/2022 - 09:45:17: [medicstats.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:45:17: [supstats2.smx] Wrong player-healed event detected: patient=11/10, healer=0/0
+L 01/21/2022 - 09:45:29: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 10:00:51: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 10:00:59: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 10:01:04: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 10:01:09: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 10:01:13: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 10:01:18: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 10:31:14: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 10:31:24: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 10:31:28: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 10:31:33: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 10:31:38: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 10:31:43: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 10:31:48: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220121.log") (Version "1.10.0.6528")
+L 01/21/2022 - 10:31:48: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 10:33:24: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 11:01:39: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 11:01:49: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 11:01:53: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 11:01:58: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 11:02:03: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 11:02:08: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 11:03:40: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 11:03:47: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 11:37:08: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220121.log") (Version "1.10.0.6528")
+L 01/21/2022 - 11:37:08: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 11:37:08: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220121.log") (Version "1.10.0.6528")
+L 01/21/2022 - 11:37:08: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 11:37:08: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220121.log") (Version "1.10.0.6528")
+L 01/21/2022 - 11:37:08: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 11:38:45: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 11:38:45: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 11:38:45: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 11:53:42: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220121.log") (Version "1.10.0.6528")
+L 01/21/2022 - 11:53:42: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 11:55:19: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 12:09:01: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 12:09:02: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 12:09:02: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 12:09:10: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 12:09:10: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 12:09:10: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 12:25:36: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 12:25:43: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 12:39:25: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 12:39:25: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 12:39:25: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 12:39:33: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 12:39:33: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 12:39:33: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 12:55:58: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 12:56:06: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 13:09:48: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 13:09:48: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 13:09:48: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 13:09:56: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 13:09:57: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 13:09:57: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 13:26:21: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 13:26:30: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 13:40:12: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 13:40:12: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 13:40:12: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 13:40:21: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 13:40:21: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 13:40:21: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 13:56:45: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 13:56:54: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 14:10:36: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 14:10:36: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 14:10:37: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 14:10:45: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 14:10:46: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 14:10:46: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 14:27:09: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 14:27:18: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 14:41:01: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 14:41:01: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 14:41:01: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 14:41:10: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 14:41:11: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 14:41:11: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 14:57:34: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 14:57:43: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 15:11:26: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 15:11:27: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 15:11:27: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 15:11:36: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 15:11:37: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 15:11:37: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 15:27:59: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 15:28:08: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 15:41:52: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 15:41:53: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 15:41:53: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 15:42:01: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 15:42:03: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 15:42:03: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 15:58:24: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 15:58:33: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 16:12:17: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 16:12:19: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 16:12:19: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 16:12:28: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 16:12:29: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 16:12:30: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 16:28:49: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 16:28:59: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 16:42:44: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 16:42:46: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 16:42:46: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 16:42:55: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 16:42:56: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 16:42:57: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 16:59:16: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 16:59:26: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 17:13:12: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 17:13:13: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 17:13:14: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 17:13:23: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 17:13:25: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 17:13:25: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 17:29:43: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 17:29:54: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 17:43:40: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 17:43:42: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 17:43:42: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 17:43:51: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 17:43:54: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 17:43:54: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 18:00:10: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 18:00:22: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 18:14:08: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 18:14:10: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 18:14:11: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 18:14:20: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 18:14:22: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 18:14:23: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 18:30:38: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 18:30:49: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 18:44:37: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 18:44:39: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 18:44:40: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 18:44:49: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 18:44:52: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 18:44:52: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 19:01:06: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 19:01:18: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 19:15:06: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 19:15:09: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 19:15:09: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 19:15:18: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 19:15:21: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 19:15:23: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 19:31:35: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 19:31:48: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 19:45:35: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 19:45:39: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 19:45:40: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 19:45:48: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 19:45:52: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 19:45:53: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 20:02:05: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 20:02:17: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 20:16:05: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 20:16:09: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 20:16:10: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 20:16:19: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 20:16:23: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 20:16:24: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 20:32:35: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 20:32:48: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 20:46:36: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 20:46:41: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 20:46:42: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 20:46:50: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 20:46:55: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 20:46:56: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 21:03:06: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 21:03:20: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 21:17:08: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 21:17:13: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 21:17:14: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 21:17:22: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 21:17:27: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 21:17:28: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 21:33:38: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 21:33:52: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 21:47:40: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 21:47:45: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 21:47:46: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 21:47:54: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 21:48:00: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 21:48:01: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 22:04:10: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 22:04:24: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 22:18:13: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 22:18:18: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 22:18:19: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 22:18:27: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 22:18:33: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 22:18:34: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 22:34:43: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 22:34:58: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 22:48:45: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 22:48:51: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 22:48:52: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 22:49:00: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 22:49:07: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 22:49:08: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 23:05:16: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 23:05:31: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 23:19:19: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 23:19:25: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 23:19:26: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 23:19:34: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 23:19:41: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 23:19:42: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 23:35:50: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 23:36:06: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 23:49:53: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 23:50:00: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 23:50:00: [SM] Changed map to "cp_badlands"
+L 01/21/2022 - 23:50:09: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 23:50:16: -------- Mapchange to cp_badlands --------
+L 01/21/2022 - 23:50:16: -------- Mapchange to cp_badlands --------
+L 01/22/2022 - 00:06:25: Log file closed.
+L 01/22/2022 - 00:20:27: Log file closed.
+L 01/22/2022 - 00:20:35: Log file closed.
+L 01/22/2022 - 00:20:35: Log file closed.

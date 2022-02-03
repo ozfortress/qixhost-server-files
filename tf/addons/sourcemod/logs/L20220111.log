@@ -1,0 +1,792 @@
+L 01/11/2022 - 00:28:15: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220111.log") (Version "1.10.0.6528")
+L 01/11/2022 - 00:28:15: [SM] Changed map to "cp_freight_final1"
+L 01/11/2022 - 00:28:15: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220111.log") (Version "1.10.0.6528")
+L 01/11/2022 - 00:28:15: [SM] Changed map to "cp_freight_final1"
+L 01/11/2022 - 00:28:15: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220111.log") (Version "1.10.0.6528")
+L 01/11/2022 - 00:28:15: [SM] Changed map to "cp_freight_final1"
+L 01/11/2022 - 00:28:15: SourceMod log file session started (file "/home/server/tf2/tf/addons/sourcemod/logs/L20220111.log") (Version "1.10.0.6528")
+L 01/11/2022 - 00:28:15: [SM] Changed map to "cp_freight_final1"
+L 01/11/2022 - 00:28:16: -------- Mapchange to cp_freight_final1 --------
+L 01/11/2022 - 00:28:16: -------- Mapchange to cp_freight_final1 --------
+L 01/11/2022 - 00:28:16: -------- Mapchange to cp_freight_final1 --------
+L 01/11/2022 - 00:28:17: -------- Mapchange to cp_freight_final1 --------
+L 01/11/2022 - 00:58:27: [SM] Changed map to "pl_upward"
+L 01/11/2022 - 00:58:27: [SM] Changed map to "pl_upward"
+L 01/11/2022 - 00:58:27: [SM] Changed map to "pl_upward"
+L 01/11/2022 - 00:58:28: [SM] Changed map to "pl_upward"
+L 01/11/2022 - 00:58:29: -------- Mapchange to pl_upward --------
+L 01/11/2022 - 00:58:29: -------- Mapchange to pl_upward --------
+L 01/11/2022 - 00:58:29: -------- Mapchange to pl_upward --------
+L 01/11/2022 - 00:58:29: -------- Mapchange to pl_upward --------
+L 01/11/2022 - 01:28:40: [SM] Changed map to "plr_hightower"
+L 01/11/2022 - 01:28:40: [SM] Changed map to "plr_hightower"
+L 01/11/2022 - 01:28:40: [SM] Changed map to "plr_hightower"
+L 01/11/2022 - 01:28:40: [SM] Changed map to "plr_hightower"
+L 01/11/2022 - 01:28:41: -------- Mapchange to plr_hightower --------
+L 01/11/2022 - 01:28:41: -------- Mapchange to plr_hightower --------
+L 01/11/2022 - 01:28:41: -------- Mapchange to plr_hightower --------
+L 01/11/2022 - 01:28:42: -------- Mapchange to plr_hightower --------
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] Map spawns missing. Map: plr_hightower. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] No config for: plr_hightower, searching for fallback...
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] No configuration found for plr_hightower, no fallback map found. Using default spawns.
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] Map spawns missing. Map: plr_hightower. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] No config for: plr_hightower, searching for fallback...
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] No configuration found for plr_hightower, no fallback map found. Using default spawns.
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] Map spawns missing. Map: plr_hightower. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] No config for: plr_hightower, searching for fallback...
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 01:28:47: [soap_tf2dm.smx] No configuration found for plr_hightower, no fallback map found. Using default spawns.
+L 01/11/2022 - 01:28:48: [soap_tf2dm.smx] Map spawns missing. Map: plr_hightower. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 01:28:48: [soap_tf2dm.smx] No config for: plr_hightower, searching for fallback...
+L 01/11/2022 - 01:28:48: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 01:28:48: [soap_tf2dm.smx] No configuration found for plr_hightower, no fallback map found. Using default spawns.
+L 01/11/2022 - 01:58:52: [SM] Changed map to "pl_thundermountain"
+L 01/11/2022 - 01:58:52: [SM] Changed map to "pl_thundermountain"
+L 01/11/2022 - 01:58:52: [SM] Changed map to "pl_thundermountain"
+L 01/11/2022 - 01:58:53: [SM] Changed map to "pl_thundermountain"
+L 01/11/2022 - 01:58:54: -------- Mapchange to pl_thundermountain --------
+L 01/11/2022 - 01:58:54: -------- Mapchange to pl_thundermountain --------
+L 01/11/2022 - 01:58:54: -------- Mapchange to pl_thundermountain --------
+L 01/11/2022 - 01:58:55: -------- Mapchange to pl_thundermountain --------
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] Map spawns missing. Map: pl_thundermountain. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] No config for: pl_thundermountain, searching for fallback...
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] No configuration found for pl_thundermountain, no fallback map found. Using default spawns.
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] Map spawns missing. Map: pl_thundermountain. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] No config for: pl_thundermountain, searching for fallback...
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] No configuration found for pl_thundermountain, no fallback map found. Using default spawns.
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] Map spawns missing. Map: pl_thundermountain. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] No config for: pl_thundermountain, searching for fallback...
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 01:59:00: [soap_tf2dm.smx] No configuration found for pl_thundermountain, no fallback map found. Using default spawns.
+L 01/11/2022 - 01:59:01: [soap_tf2dm.smx] Map spawns missing. Map: pl_thundermountain. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 01:59:01: [soap_tf2dm.smx] No config for: pl_thundermountain, searching for fallback...
+L 01/11/2022 - 01:59:01: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 01:59:01: [soap_tf2dm.smx] No configuration found for pl_thundermountain, no fallback map found. Using default spawns.
+L 01/11/2022 - 02:29:05: [SM] Changed map to "cp_coldfront"
+L 01/11/2022 - 02:29:05: [SM] Changed map to "cp_coldfront"
+L 01/11/2022 - 02:29:05: [SM] Changed map to "cp_coldfront"
+L 01/11/2022 - 02:29:06: [SM] Changed map to "cp_coldfront"
+L 01/11/2022 - 02:29:07: -------- Mapchange to cp_coldfront --------
+L 01/11/2022 - 02:29:07: -------- Mapchange to cp_coldfront --------
+L 01/11/2022 - 02:29:07: -------- Mapchange to cp_coldfront --------
+L 01/11/2022 - 02:29:08: -------- Mapchange to cp_coldfront --------
+L 01/11/2022 - 02:59:18: [SM] Changed map to "cp_mountainlab"
+L 01/11/2022 - 02:59:18: [SM] Changed map to "cp_mountainlab"
+L 01/11/2022 - 02:59:18: [SM] Changed map to "cp_mountainlab"
+L 01/11/2022 - 02:59:19: [SM] Changed map to "cp_mountainlab"
+L 01/11/2022 - 02:59:20: -------- Mapchange to cp_mountainlab --------
+L 01/11/2022 - 02:59:20: -------- Mapchange to cp_mountainlab --------
+L 01/11/2022 - 02:59:20: -------- Mapchange to cp_mountainlab --------
+L 01/11/2022 - 02:59:22: -------- Mapchange to cp_mountainlab --------
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] Map spawns missing. Map: cp_mountainlab. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] No config for: cp_mountainlab, searching for fallback...
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] No configuration found for cp_mountainlab, no fallback map found. Using default spawns.
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] Map spawns missing. Map: cp_mountainlab. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] No config for: cp_mountainlab, searching for fallback...
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] No configuration found for cp_mountainlab, no fallback map found. Using default spawns.
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] Map spawns missing. Map: cp_mountainlab. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] No config for: cp_mountainlab, searching for fallback...
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 02:59:26: [soap_tf2dm.smx] No configuration found for cp_mountainlab, no fallback map found. Using default spawns.
+L 01/11/2022 - 02:59:27: [soap_tf2dm.smx] Map spawns missing. Map: cp_mountainlab. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 02:59:27: [soap_tf2dm.smx] No config for: cp_mountainlab, searching for fallback...
+L 01/11/2022 - 02:59:27: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 02:59:27: [soap_tf2dm.smx] No configuration found for cp_mountainlab, no fallback map found. Using default spawns.
+L 01/11/2022 - 03:29:31: [SM] Changed map to "cp_degrootkeep"
+L 01/11/2022 - 03:29:31: [SM] Changed map to "cp_degrootkeep"
+L 01/11/2022 - 03:29:31: [SM] Changed map to "cp_degrootkeep"
+L 01/11/2022 - 03:29:32: [SM] Changed map to "cp_degrootkeep"
+L 01/11/2022 - 03:29:33: -------- Mapchange to cp_degrootkeep --------
+L 01/11/2022 - 03:29:33: -------- Mapchange to cp_degrootkeep --------
+L 01/11/2022 - 03:29:33: -------- Mapchange to cp_degrootkeep --------
+L 01/11/2022 - 03:29:34: -------- Mapchange to cp_degrootkeep --------
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] Map spawns missing. Map: cp_degrootkeep. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] No config for: cp_degrootkeep, searching for fallback...
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] No configuration found for cp_degrootkeep, no fallback map found. Using default spawns.
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] Map spawns missing. Map: cp_degrootkeep. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] No config for: cp_degrootkeep, searching for fallback...
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] No configuration found for cp_degrootkeep, no fallback map found. Using default spawns.
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] Map spawns missing. Map: cp_degrootkeep. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] No config for: cp_degrootkeep, searching for fallback...
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 03:29:39: [soap_tf2dm.smx] No configuration found for cp_degrootkeep, no fallback map found. Using default spawns.
+L 01/11/2022 - 03:29:40: [soap_tf2dm.smx] Map spawns missing. Map: cp_degrootkeep. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 03:29:40: [soap_tf2dm.smx] No config for: cp_degrootkeep, searching for fallback...
+L 01/11/2022 - 03:29:40: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 03:29:40: [soap_tf2dm.smx] No configuration found for cp_degrootkeep, no fallback map found. Using default spawns.
+L 01/11/2022 - 03:59:44: [SM] Changed map to "cp_5gorge"
+L 01/11/2022 - 03:59:44: [SM] Changed map to "cp_5gorge"
+L 01/11/2022 - 03:59:44: [SM] Changed map to "cp_5gorge"
+L 01/11/2022 - 03:59:45: [SM] Changed map to "cp_5gorge"
+L 01/11/2022 - 03:59:46: -------- Mapchange to cp_5gorge --------
+L 01/11/2022 - 03:59:46: -------- Mapchange to cp_5gorge --------
+L 01/11/2022 - 03:59:46: -------- Mapchange to cp_5gorge --------
+L 01/11/2022 - 03:59:48: -------- Mapchange to cp_5gorge --------
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] Map spawns missing. Map: cp_5gorge. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] No config for: cp_5gorge, searching for fallback...
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] No configuration found for cp_5gorge, no fallback map found. Using default spawns.
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] Map spawns missing. Map: cp_5gorge. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] No config for: cp_5gorge, searching for fallback...
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] No configuration found for cp_5gorge, no fallback map found. Using default spawns.
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] Map spawns missing. Map: cp_5gorge. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] No config for: cp_5gorge, searching for fallback...
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 03:59:52: [soap_tf2dm.smx] No configuration found for cp_5gorge, no fallback map found. Using default spawns.
+L 01/11/2022 - 03:59:53: [soap_tf2dm.smx] Map spawns missing. Map: cp_5gorge. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 03:59:53: [soap_tf2dm.smx] No config for: cp_5gorge, searching for fallback...
+L 01/11/2022 - 03:59:53: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 03:59:53: [soap_tf2dm.smx] No configuration found for cp_5gorge, no fallback map found. Using default spawns.
+L 01/11/2022 - 04:29:57: [SM] Changed map to "pl_frontier_final"
+L 01/11/2022 - 04:29:57: [SM] Changed map to "pl_frontier_final"
+L 01/11/2022 - 04:29:57: [SM] Changed map to "pl_frontier_final"
+L 01/11/2022 - 04:29:58: [SM] Changed map to "pl_frontier_final"
+L 01/11/2022 - 04:30:00: -------- Mapchange to pl_frontier_final --------
+L 01/11/2022 - 04:30:00: -------- Mapchange to pl_frontier_final --------
+L 01/11/2022 - 04:30:00: -------- Mapchange to pl_frontier_final --------
+L 01/11/2022 - 04:30:01: -------- Mapchange to pl_frontier_final --------
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] Map spawns missing. Map: pl_frontier_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] No config for: pl_frontier_final, searching for fallback...
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] Cleaned map pl_frontier.
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] No configuration found for pl_frontier_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] Map spawns missing. Map: pl_frontier_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] No config for: pl_frontier_final, searching for fallback...
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] Cleaned map pl_frontier.
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] No configuration found for pl_frontier_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] Map spawns missing. Map: pl_frontier_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] No config for: pl_frontier_final, searching for fallback...
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] Cleaned map pl_frontier.
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 04:30:06: [soap_tf2dm.smx] No configuration found for pl_frontier_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 04:30:07: [soap_tf2dm.smx] Map spawns missing. Map: pl_frontier_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 04:30:07: [soap_tf2dm.smx] No config for: pl_frontier_final, searching for fallback...
+L 01/11/2022 - 04:30:07: [soap_tf2dm.smx] Cleaned map pl_frontier.
+L 01/11/2022 - 04:30:07: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 04:30:07: [soap_tf2dm.smx] No configuration found for pl_frontier_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 05:00:11: [SM] Changed map to "plr_nightfall_final"
+L 01/11/2022 - 05:00:11: [SM] Changed map to "plr_nightfall_final"
+L 01/11/2022 - 05:00:11: [SM] Changed map to "plr_nightfall_final"
+L 01/11/2022 - 05:00:12: [SM] Changed map to "plr_nightfall_final"
+L 01/11/2022 - 05:00:14: -------- Mapchange to plr_nightfall_final --------
+L 01/11/2022 - 05:00:14: -------- Mapchange to plr_nightfall_final --------
+L 01/11/2022 - 05:00:14: -------- Mapchange to plr_nightfall_final --------
+L 01/11/2022 - 05:00:15: -------- Mapchange to plr_nightfall_final --------
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] Map spawns missing. Map: plr_nightfall_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] No config for: plr_nightfall_final, searching for fallback...
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] Cleaned map plr_nightfall.
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] No configuration found for plr_nightfall_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] Map spawns missing. Map: plr_nightfall_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] No config for: plr_nightfall_final, searching for fallback...
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] Cleaned map plr_nightfall.
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] No configuration found for plr_nightfall_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] Map spawns missing. Map: plr_nightfall_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] No config for: plr_nightfall_final, searching for fallback...
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] Cleaned map plr_nightfall.
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 05:00:20: [soap_tf2dm.smx] No configuration found for plr_nightfall_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 05:00:21: [soap_tf2dm.smx] Map spawns missing. Map: plr_nightfall_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 05:00:21: [soap_tf2dm.smx] No config for: plr_nightfall_final, searching for fallback...
+L 01/11/2022 - 05:00:21: [soap_tf2dm.smx] Cleaned map plr_nightfall.
+L 01/11/2022 - 05:00:21: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 05:00:21: [soap_tf2dm.smx] No configuration found for plr_nightfall_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 05:30:25: [SM] Changed map to "koth_lakeside_final"
+L 01/11/2022 - 05:30:25: [SM] Changed map to "koth_lakeside_final"
+L 01/11/2022 - 05:30:25: [SM] Changed map to "koth_lakeside_final"
+L 01/11/2022 - 05:30:26: [SM] Changed map to "koth_lakeside_final"
+L 01/11/2022 - 05:30:28: -------- Mapchange to koth_lakeside_final --------
+L 01/11/2022 - 05:30:28: -------- Mapchange to koth_lakeside_final --------
+L 01/11/2022 - 05:30:28: -------- Mapchange to koth_lakeside_final --------
+L 01/11/2022 - 05:30:29: -------- Mapchange to koth_lakeside_final --------
+L 01/11/2022 - 06:00:39: [SM] Changed map to "koth_badlands"
+L 01/11/2022 - 06:00:39: [SM] Changed map to "koth_badlands"
+L 01/11/2022 - 06:00:39: [SM] Changed map to "koth_badlands"
+L 01/11/2022 - 06:00:40: [SM] Changed map to "koth_badlands"
+L 01/11/2022 - 06:00:43: -------- Mapchange to koth_badlands --------
+L 01/11/2022 - 06:00:43: -------- Mapchange to koth_badlands --------
+L 01/11/2022 - 06:00:43: -------- Mapchange to koth_badlands --------
+L 01/11/2022 - 06:00:43: -------- Mapchange to koth_badlands --------
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] Map spawns missing. Map: koth_badlands. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] No config for: koth_badlands, searching for fallback...
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] No configuration found for koth_badlands, no fallback map found. Using default spawns.
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] Map spawns missing. Map: koth_badlands. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] No config for: koth_badlands, searching for fallback...
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] No configuration found for koth_badlands, no fallback map found. Using default spawns.
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] Map spawns missing. Map: koth_badlands. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] No config for: koth_badlands, searching for fallback...
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] No configuration found for koth_badlands, no fallback map found. Using default spawns.
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] Map spawns missing. Map: koth_badlands. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] No config for: koth_badlands, searching for fallback...
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 06:00:49: [soap_tf2dm.smx] No configuration found for koth_badlands, no fallback map found. Using default spawns.
+L 01/11/2022 - 06:30:54: [SM] Changed map to "pl_barnblitz"
+L 01/11/2022 - 06:30:54: [SM] Changed map to "pl_barnblitz"
+L 01/11/2022 - 06:30:54: [SM] Changed map to "pl_barnblitz"
+L 01/11/2022 - 06:30:54: [SM] Changed map to "pl_barnblitz"
+L 01/11/2022 - 06:30:57: -------- Mapchange to pl_barnblitz --------
+L 01/11/2022 - 06:30:57: -------- Mapchange to pl_barnblitz --------
+L 01/11/2022 - 06:30:57: -------- Mapchange to pl_barnblitz --------
+L 01/11/2022 - 06:30:58: -------- Mapchange to pl_barnblitz --------
+L 01/11/2022 - 07:01:08: [SM] Changed map to "cp_gullywash_final1"
+L 01/11/2022 - 07:01:08: [SM] Changed map to "cp_gullywash_final1"
+L 01/11/2022 - 07:01:08: [SM] Changed map to "cp_gullywash_final1"
+L 01/11/2022 - 07:01:09: [SM] Changed map to "cp_gullywash_final1"
+L 01/11/2022 - 07:01:13: -------- Mapchange to cp_gullywash_final1 --------
+L 01/11/2022 - 07:01:13: -------- Mapchange to cp_gullywash_final1 --------
+L 01/11/2022 - 07:01:13: -------- Mapchange to cp_gullywash_final1 --------
+L 01/11/2022 - 07:01:14: -------- Mapchange to cp_gullywash_final1 --------
+L 01/11/2022 - 07:31:24: [SM] Changed map to "cp_foundry"
+L 01/11/2022 - 07:31:24: [SM] Changed map to "cp_foundry"
+L 01/11/2022 - 07:31:24: [SM] Changed map to "cp_foundry"
+L 01/11/2022 - 07:31:25: [SM] Changed map to "cp_foundry"
+L 01/11/2022 - 07:31:27: -------- Mapchange to cp_foundry --------
+L 01/11/2022 - 07:31:27: -------- Mapchange to cp_foundry --------
+L 01/11/2022 - 07:31:28: -------- Mapchange to cp_foundry --------
+L 01/11/2022 - 07:31:28: -------- Mapchange to cp_foundry --------
+L 01/11/2022 - 08:01:38: [SM] Changed map to "sd_doomsday"
+L 01/11/2022 - 08:01:39: [SM] Changed map to "sd_doomsday"
+L 01/11/2022 - 08:01:39: [SM] Changed map to "sd_doomsday"
+L 01/11/2022 - 08:01:39: [SM] Changed map to "sd_doomsday"
+L 01/11/2022 - 08:01:42: -------- Mapchange to sd_doomsday --------
+L 01/11/2022 - 08:01:42: -------- Mapchange to sd_doomsday --------
+L 01/11/2022 - 08:01:42: -------- Mapchange to sd_doomsday --------
+L 01/11/2022 - 08:01:43: -------- Mapchange to sd_doomsday --------
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] Map spawns missing. Map: sd_doomsday. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] No config for: sd_doomsday, searching for fallback...
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] No configuration found for sd_doomsday, no fallback map found. Using default spawns.
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] Map spawns missing. Map: sd_doomsday. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] No config for: sd_doomsday, searching for fallback...
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] No configuration found for sd_doomsday, no fallback map found. Using default spawns.
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] Map spawns missing. Map: sd_doomsday. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] No config for: sd_doomsday, searching for fallback...
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 08:01:48: [soap_tf2dm.smx] No configuration found for sd_doomsday, no fallback map found. Using default spawns.
+L 01/11/2022 - 08:01:49: [soap_tf2dm.smx] Map spawns missing. Map: sd_doomsday. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 08:01:49: [soap_tf2dm.smx] No config for: sd_doomsday, searching for fallback...
+L 01/11/2022 - 08:01:49: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 08:01:49: [soap_tf2dm.smx] No configuration found for sd_doomsday, no fallback map found. Using default spawns.
+L 01/11/2022 - 08:31:53: [SM] Changed map to "koth_king"
+L 01/11/2022 - 08:31:53: [SM] Changed map to "koth_king"
+L 01/11/2022 - 08:31:53: [SM] Changed map to "koth_king"
+L 01/11/2022 - 08:31:54: [SM] Changed map to "koth_king"
+L 01/11/2022 - 08:31:56: -------- Mapchange to koth_king --------
+L 01/11/2022 - 08:31:56: -------- Mapchange to koth_king --------
+L 01/11/2022 - 08:31:57: -------- Mapchange to koth_king --------
+L 01/11/2022 - 08:31:57: -------- Mapchange to koth_king --------
+L 01/11/2022 - 08:32:02: [soap_tf2dm.smx] Map spawns missing. Map: koth_king. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 08:32:02: [soap_tf2dm.smx] No config for: koth_king, searching for fallback...
+L 01/11/2022 - 08:32:02: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 08:32:02: [soap_tf2dm.smx] No configuration found for koth_king, no fallback map found. Using default spawns.
+L 01/11/2022 - 08:32:02: [soap_tf2dm.smx] Map spawns missing. Map: koth_king. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 08:32:02: [soap_tf2dm.smx] No config for: koth_king, searching for fallback...
+L 01/11/2022 - 08:32:02: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 08:32:02: [soap_tf2dm.smx] No configuration found for koth_king, no fallback map found. Using default spawns.
+L 01/11/2022 - 08:32:03: [soap_tf2dm.smx] Map spawns missing. Map: koth_king. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 08:32:03: [soap_tf2dm.smx] No config for: koth_king, searching for fallback...
+L 01/11/2022 - 08:32:03: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 08:32:03: [soap_tf2dm.smx] No configuration found for koth_king, no fallback map found. Using default spawns.
+L 01/11/2022 - 08:32:03: [soap_tf2dm.smx] Map spawns missing. Map: koth_king. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 08:32:03: [soap_tf2dm.smx] No config for: koth_king, searching for fallback...
+L 01/11/2022 - 08:32:03: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 08:32:03: [soap_tf2dm.smx] No configuration found for koth_king, no fallback map found. Using default spawns.
+L 01/11/2022 - 09:02:08: [SM] Changed map to "cp_process_final"
+L 01/11/2022 - 09:02:08: [SM] Changed map to "cp_process_final"
+L 01/11/2022 - 09:02:08: [SM] Changed map to "cp_process_final"
+L 01/11/2022 - 09:02:09: [SM] Changed map to "cp_process_final"
+L 01/11/2022 - 09:02:11: -------- Mapchange to cp_process_final --------
+L 01/11/2022 - 09:02:11: -------- Mapchange to cp_process_final --------
+L 01/11/2022 - 09:02:12: -------- Mapchange to cp_process_final --------
+L 01/11/2022 - 09:02:12: -------- Mapchange to cp_process_final --------
+L 01/11/2022 - 09:32:23: [SM] Changed map to "cp_standin_final"
+L 01/11/2022 - 09:32:23: [SM] Changed map to "cp_standin_final"
+L 01/11/2022 - 09:32:23: [SM] Changed map to "cp_standin_final"
+L 01/11/2022 - 09:32:24: [SM] Changed map to "cp_standin_final"
+L 01/11/2022 - 09:32:27: -------- Mapchange to cp_standin_final --------
+L 01/11/2022 - 09:32:27: -------- Mapchange to cp_standin_final --------
+L 01/11/2022 - 09:32:27: -------- Mapchange to cp_standin_final --------
+L 01/11/2022 - 09:32:28: -------- Mapchange to cp_standin_final --------
+L 01/11/2022 - 10:02:38: [SM] Changed map to "cp_snakewater_final1"
+L 01/11/2022 - 10:02:38: [SM] Changed map to "cp_snakewater_final1"
+L 01/11/2022 - 10:02:38: [SM] Changed map to "cp_snakewater_final1"
+L 01/11/2022 - 10:02:39: [SM] Changed map to "cp_snakewater_final1"
+L 01/11/2022 - 10:02:42: -------- Mapchange to cp_snakewater_final1 --------
+L 01/11/2022 - 10:02:42: -------- Mapchange to cp_snakewater_final1 --------
+L 01/11/2022 - 10:02:42: -------- Mapchange to cp_snakewater_final1 --------
+L 01/11/2022 - 10:02:43: -------- Mapchange to cp_snakewater_final1 --------
+L 01/11/2022 - 10:32:53: [SM] Changed map to "cp_sunshine"
+L 01/11/2022 - 10:32:53: [SM] Changed map to "cp_sunshine"
+L 01/11/2022 - 10:32:53: [SM] Changed map to "cp_sunshine"
+L 01/11/2022 - 10:32:54: [SM] Changed map to "cp_sunshine"
+L 01/11/2022 - 10:32:58: -------- Mapchange to cp_sunshine --------
+L 01/11/2022 - 10:32:58: -------- Mapchange to cp_sunshine --------
+L 01/11/2022 - 10:32:58: -------- Mapchange to cp_sunshine --------
+L 01/11/2022 - 10:32:59: -------- Mapchange to cp_sunshine --------
+L 01/11/2022 - 11:03:09: [SM] Changed map to "cp_metalworks"
+L 01/11/2022 - 11:03:09: [SM] Changed map to "cp_metalworks"
+L 01/11/2022 - 11:03:09: [SM] Changed map to "cp_metalworks"
+L 01/11/2022 - 11:03:10: [SM] Changed map to "cp_metalworks"
+L 01/11/2022 - 11:03:14: -------- Mapchange to cp_metalworks --------
+L 01/11/2022 - 11:03:14: -------- Mapchange to cp_metalworks --------
+L 01/11/2022 - 11:03:14: -------- Mapchange to cp_metalworks --------
+L 01/11/2022 - 11:03:15: -------- Mapchange to cp_metalworks --------
+L 01/11/2022 - 11:33:25: [SM] Changed map to "pl_swiftwater_final1"
+L 01/11/2022 - 11:33:25: [SM] Changed map to "pl_swiftwater_final1"
+L 01/11/2022 - 11:33:26: [SM] Changed map to "pl_swiftwater_final1"
+L 01/11/2022 - 11:33:27: [SM] Changed map to "pl_swiftwater_final1"
+L 01/11/2022 - 11:33:31: -------- Mapchange to pl_swiftwater_final1 --------
+L 01/11/2022 - 11:33:31: -------- Mapchange to pl_swiftwater_final1 --------
+L 01/11/2022 - 11:33:31: -------- Mapchange to pl_swiftwater_final1 --------
+L 01/11/2022 - 11:33:32: -------- Mapchange to pl_swiftwater_final1 --------
+L 01/11/2022 - 12:03:42: [SM] Changed map to "cp_gravelpit"
+L 01/11/2022 - 12:03:42: [SM] Changed map to "cp_gravelpit"
+L 01/11/2022 - 12:03:42: [SM] Changed map to "cp_gravelpit"
+L 01/11/2022 - 12:03:43: [SM] Changed map to "cp_gravelpit"
+L 01/11/2022 - 12:03:47: -------- Mapchange to cp_gravelpit --------
+L 01/11/2022 - 12:03:47: -------- Mapchange to cp_gravelpit --------
+L 01/11/2022 - 12:03:47: -------- Mapchange to cp_gravelpit --------
+L 01/11/2022 - 12:03:47: -------- Mapchange to cp_gravelpit --------
+L 01/11/2022 - 12:33:58: [SM] Changed map to "cp_dustbowl"
+L 01/11/2022 - 12:33:58: [SM] Changed map to "cp_dustbowl"
+L 01/11/2022 - 12:33:58: [SM] Changed map to "cp_dustbowl"
+L 01/11/2022 - 12:33:59: [SM] Changed map to "cp_dustbowl"
+L 01/11/2022 - 12:34:03: -------- Mapchange to cp_dustbowl --------
+L 01/11/2022 - 12:34:03: -------- Mapchange to cp_dustbowl --------
+L 01/11/2022 - 12:34:03: -------- Mapchange to cp_dustbowl --------
+L 01/11/2022 - 12:34:04: -------- Mapchange to cp_dustbowl --------
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] Map spawns missing. Map: cp_dustbowl. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] No config for: cp_dustbowl, searching for fallback...
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] No configuration found for cp_dustbowl, no fallback map found. Using default spawns.
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] Map spawns missing. Map: cp_dustbowl. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] No config for: cp_dustbowl, searching for fallback...
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] No configuration found for cp_dustbowl, no fallback map found. Using default spawns.
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] Map spawns missing. Map: cp_dustbowl. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] No config for: cp_dustbowl, searching for fallback...
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 12:34:09: [soap_tf2dm.smx] No configuration found for cp_dustbowl, no fallback map found. Using default spawns.
+L 01/11/2022 - 12:34:10: [soap_tf2dm.smx] Map spawns missing. Map: cp_dustbowl. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 12:34:10: [soap_tf2dm.smx] No config for: cp_dustbowl, searching for fallback...
+L 01/11/2022 - 12:34:10: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 12:34:10: [soap_tf2dm.smx] No configuration found for cp_dustbowl, no fallback map found. Using default spawns.
+L 01/11/2022 - 13:04:14: [SM] Changed map to "cp_granary"
+L 01/11/2022 - 13:04:14: [SM] Changed map to "cp_granary"
+L 01/11/2022 - 13:04:14: [SM] Changed map to "cp_granary"
+L 01/11/2022 - 13:04:15: [SM] Changed map to "cp_granary"
+L 01/11/2022 - 13:04:19: -------- Mapchange to cp_granary --------
+L 01/11/2022 - 13:04:19: -------- Mapchange to cp_granary --------
+L 01/11/2022 - 13:04:19: -------- Mapchange to cp_granary --------
+L 01/11/2022 - 13:04:20: -------- Mapchange to cp_granary --------
+L 01/11/2022 - 13:34:30: [SM] Changed map to "cp_well"
+L 01/11/2022 - 13:34:30: [SM] Changed map to "cp_well"
+L 01/11/2022 - 13:34:31: [SM] Changed map to "cp_well"
+L 01/11/2022 - 13:34:32: [SM] Changed map to "cp_well"
+L 01/11/2022 - 13:34:35: -------- Mapchange to cp_well --------
+L 01/11/2022 - 13:34:35: -------- Mapchange to cp_well --------
+L 01/11/2022 - 13:34:36: -------- Mapchange to cp_well --------
+L 01/11/2022 - 13:34:37: -------- Mapchange to cp_well --------
+L 01/11/2022 - 14:04:46: [SM] Changed map to "ctf_2fort"
+L 01/11/2022 - 14:04:47: [SM] Changed map to "ctf_2fort"
+L 01/11/2022 - 14:04:47: [SM] Changed map to "ctf_2fort"
+L 01/11/2022 - 14:04:48: [SM] Changed map to "ctf_2fort"
+L 01/11/2022 - 14:04:53: -------- Mapchange to ctf_2fort --------
+L 01/11/2022 - 14:04:53: -------- Mapchange to ctf_2fort --------
+L 01/11/2022 - 14:04:53: -------- Mapchange to ctf_2fort --------
+L 01/11/2022 - 14:04:55: -------- Mapchange to ctf_2fort --------
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] Map spawns missing. Map: ctf_2fort. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] No config for: ctf_2fort, searching for fallback...
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] No configuration found for ctf_2fort, no fallback map found. Using default spawns.
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] Map spawns missing. Map: ctf_2fort. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] No config for: ctf_2fort, searching for fallback...
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] No configuration found for ctf_2fort, no fallback map found. Using default spawns.
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] Map spawns missing. Map: ctf_2fort. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] No config for: ctf_2fort, searching for fallback...
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 14:04:59: [soap_tf2dm.smx] No configuration found for ctf_2fort, no fallback map found. Using default spawns.
+L 01/11/2022 - 14:05:01: [soap_tf2dm.smx] Map spawns missing. Map: ctf_2fort. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 14:05:01: [soap_tf2dm.smx] No config for: ctf_2fort, searching for fallback...
+L 01/11/2022 - 14:05:01: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 14:05:01: [soap_tf2dm.smx] No configuration found for ctf_2fort, no fallback map found. Using default spawns.
+L 01/11/2022 - 14:35:04: [SM] Changed map to "tc_hydro"
+L 01/11/2022 - 14:35:04: [SM] Changed map to "tc_hydro"
+L 01/11/2022 - 14:35:04: [SM] Changed map to "tc_hydro"
+L 01/11/2022 - 14:35:06: [SM] Changed map to "tc_hydro"
+L 01/11/2022 - 14:35:10: -------- Mapchange to tc_hydro --------
+L 01/11/2022 - 14:35:10: -------- Mapchange to tc_hydro --------
+L 01/11/2022 - 14:35:10: -------- Mapchange to tc_hydro --------
+L 01/11/2022 - 14:35:12: -------- Mapchange to tc_hydro --------
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] Map spawns missing. Map: tc_hydro. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] No config for: tc_hydro, searching for fallback...
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] No configuration found for tc_hydro, no fallback map found. Using default spawns.
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] Map spawns missing. Map: tc_hydro. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] No config for: tc_hydro, searching for fallback...
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] No configuration found for tc_hydro, no fallback map found. Using default spawns.
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] Map spawns missing. Map: tc_hydro. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] No config for: tc_hydro, searching for fallback...
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 14:35:16: [soap_tf2dm.smx] No configuration found for tc_hydro, no fallback map found. Using default spawns.
+L 01/11/2022 - 14:35:18: [soap_tf2dm.smx] Map spawns missing. Map: tc_hydro. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 14:35:18: [soap_tf2dm.smx] No config for: tc_hydro, searching for fallback...
+L 01/11/2022 - 14:35:18: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 14:35:18: [soap_tf2dm.smx] No configuration found for tc_hydro, no fallback map found. Using default spawns.
+L 01/11/2022 - 15:05:21: [SM] Changed map to "ctf_well"
+L 01/11/2022 - 15:05:21: [SM] Changed map to "ctf_well"
+L 01/11/2022 - 15:05:21: [SM] Changed map to "ctf_well"
+L 01/11/2022 - 15:05:23: [SM] Changed map to "ctf_well"
+L 01/11/2022 - 15:05:26: -------- Mapchange to ctf_well --------
+L 01/11/2022 - 15:05:26: -------- Mapchange to ctf_well --------
+L 01/11/2022 - 15:05:27: -------- Mapchange to ctf_well --------
+L 01/11/2022 - 15:05:28: -------- Mapchange to ctf_well --------
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] Map spawns missing. Map: ctf_well. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] No config for: ctf_well, searching for fallback...
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] No configuration found for ctf_well, no fallback map found. Using default spawns.
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] Map spawns missing. Map: ctf_well. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] No config for: ctf_well, searching for fallback...
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] No configuration found for ctf_well, no fallback map found. Using default spawns.
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] Map spawns missing. Map: ctf_well. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 15:05:32: [soap_tf2dm.smx] No config for: ctf_well, searching for fallback...
+L 01/11/2022 - 15:05:33: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 15:05:33: [soap_tf2dm.smx] No configuration found for ctf_well, no fallback map found. Using default spawns.
+L 01/11/2022 - 15:05:34: [soap_tf2dm.smx] Map spawns missing. Map: ctf_well. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 15:05:34: [soap_tf2dm.smx] No config for: ctf_well, searching for fallback...
+L 01/11/2022 - 15:05:34: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 15:05:34: [soap_tf2dm.smx] No configuration found for ctf_well, no fallback map found. Using default spawns.
+L 01/11/2022 - 15:35:37: [SM] Changed map to "cp_badlands"
+L 01/11/2022 - 15:35:37: [SM] Changed map to "cp_badlands"
+L 01/11/2022 - 15:35:38: [SM] Changed map to "cp_badlands"
+L 01/11/2022 - 15:35:39: [SM] Changed map to "cp_badlands"
+L 01/11/2022 - 15:35:44: -------- Mapchange to cp_badlands --------
+L 01/11/2022 - 15:35:45: -------- Mapchange to cp_badlands --------
+L 01/11/2022 - 15:35:45: -------- Mapchange to cp_badlands --------
+L 01/11/2022 - 15:35:47: -------- Mapchange to cp_badlands --------
+L 01/11/2022 - 16:05:56: [SM] Changed map to "pl_goldrush"
+L 01/11/2022 - 16:05:56: [SM] Changed map to "pl_goldrush"
+L 01/11/2022 - 16:05:56: [SM] Changed map to "pl_goldrush"
+L 01/11/2022 - 16:05:58: [SM] Changed map to "pl_goldrush"
+L 01/11/2022 - 16:06:02: -------- Mapchange to pl_goldrush --------
+L 01/11/2022 - 16:06:03: -------- Mapchange to pl_goldrush --------
+L 01/11/2022 - 16:06:03: -------- Mapchange to pl_goldrush --------
+L 01/11/2022 - 16:06:05: -------- Mapchange to pl_goldrush --------
+L 01/11/2022 - 16:06:08: [soap_tf2dm.smx] Map spawns missing. Map: pl_goldrush. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 16:06:08: [soap_tf2dm.smx] No config for: pl_goldrush, searching for fallback...
+L 01/11/2022 - 16:06:08: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 16:06:08: [soap_tf2dm.smx] No configuration found for pl_goldrush, no fallback map found. Using default spawns.
+L 01/11/2022 - 16:06:09: [soap_tf2dm.smx] Map spawns missing. Map: pl_goldrush. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 16:06:09: [soap_tf2dm.smx] No config for: pl_goldrush, searching for fallback...
+L 01/11/2022 - 16:06:09: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 16:06:09: [soap_tf2dm.smx] No configuration found for pl_goldrush, no fallback map found. Using default spawns.
+L 01/11/2022 - 16:06:09: [soap_tf2dm.smx] Map spawns missing. Map: pl_goldrush. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 16:06:09: [soap_tf2dm.smx] No config for: pl_goldrush, searching for fallback...
+L 01/11/2022 - 16:06:09: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 16:06:09: [soap_tf2dm.smx] No configuration found for pl_goldrush, no fallback map found. Using default spawns.
+L 01/11/2022 - 16:06:11: [soap_tf2dm.smx] Map spawns missing. Map: pl_goldrush. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 16:06:11: [soap_tf2dm.smx] No config for: pl_goldrush, searching for fallback...
+L 01/11/2022 - 16:06:11: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 16:06:11: [soap_tf2dm.smx] No configuration found for pl_goldrush, no fallback map found. Using default spawns.
+L 01/11/2022 - 16:36:13: [SM] Changed map to "cp_fastlane"
+L 01/11/2022 - 16:36:14: [SM] Changed map to "cp_fastlane"
+L 01/11/2022 - 16:36:14: [SM] Changed map to "cp_fastlane"
+L 01/11/2022 - 16:36:16: [SM] Changed map to "cp_fastlane"
+L 01/11/2022 - 16:36:19: -------- Mapchange to cp_fastlane --------
+L 01/11/2022 - 16:36:19: -------- Mapchange to cp_fastlane --------
+L 01/11/2022 - 16:36:20: -------- Mapchange to cp_fastlane --------
+L 01/11/2022 - 16:36:22: -------- Mapchange to cp_fastlane --------
+L 01/11/2022 - 17:06:30: [SM] Changed map to "ctf_turbine"
+L 01/11/2022 - 17:06:30: [SM] Changed map to "ctf_turbine"
+L 01/11/2022 - 17:06:31: [SM] Changed map to "ctf_turbine"
+L 01/11/2022 - 17:06:33: [SM] Changed map to "ctf_turbine"
+L 01/11/2022 - 17:06:36: -------- Mapchange to ctf_turbine --------
+L 01/11/2022 - 17:06:36: -------- Mapchange to ctf_turbine --------
+L 01/11/2022 - 17:06:37: -------- Mapchange to ctf_turbine --------
+L 01/11/2022 - 17:06:39: -------- Mapchange to ctf_turbine --------
+L 01/11/2022 - 17:36:47: [SM] Changed map to "pl_badwater"
+L 01/11/2022 - 17:36:47: [SM] Changed map to "pl_badwater"
+L 01/11/2022 - 17:36:48: [SM] Changed map to "pl_badwater"
+L 01/11/2022 - 17:36:50: [SM] Changed map to "pl_badwater"
+L 01/11/2022 - 17:36:54: -------- Mapchange to pl_badwater --------
+L 01/11/2022 - 17:36:54: -------- Mapchange to pl_badwater --------
+L 01/11/2022 - 17:36:55: -------- Mapchange to pl_badwater --------
+L 01/11/2022 - 17:36:57: -------- Mapchange to pl_badwater --------
+L 01/11/2022 - 18:07:05: [SM] Changed map to "cp_steel"
+L 01/11/2022 - 18:07:05: [SM] Changed map to "cp_steel"
+L 01/11/2022 - 18:07:06: [SM] Changed map to "cp_steel"
+L 01/11/2022 - 18:07:08: [SM] Changed map to "cp_steel"
+L 01/11/2022 - 18:07:11: -------- Mapchange to cp_steel --------
+L 01/11/2022 - 18:07:12: -------- Mapchange to cp_steel --------
+L 01/11/2022 - 18:07:12: -------- Mapchange to cp_steel --------
+L 01/11/2022 - 18:07:14: -------- Mapchange to cp_steel --------
+L 01/11/2022 - 18:37:22: [SM] Changed map to "cp_egypt_final"
+L 01/11/2022 - 18:37:23: [SM] Changed map to "cp_egypt_final"
+L 01/11/2022 - 18:37:23: [SM] Changed map to "cp_egypt_final"
+L 01/11/2022 - 18:37:25: [SM] Changed map to "cp_egypt_final"
+L 01/11/2022 - 18:37:30: -------- Mapchange to cp_egypt_final --------
+L 01/11/2022 - 18:37:30: -------- Mapchange to cp_egypt_final --------
+L 01/11/2022 - 18:37:31: -------- Mapchange to cp_egypt_final --------
+L 01/11/2022 - 18:37:33: -------- Mapchange to cp_egypt_final --------
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] Map spawns missing. Map: cp_egypt_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] No config for: cp_egypt_final, searching for fallback...
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] Cleaned map cp_egypt.
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] No configuration found for cp_egypt_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] Map spawns missing. Map: cp_egypt_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] No config for: cp_egypt_final, searching for fallback...
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] Cleaned map cp_egypt.
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 18:37:36: [soap_tf2dm.smx] No configuration found for cp_egypt_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 18:37:37: [soap_tf2dm.smx] Map spawns missing. Map: cp_egypt_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 18:37:37: [soap_tf2dm.smx] No config for: cp_egypt_final, searching for fallback...
+L 01/11/2022 - 18:37:37: [soap_tf2dm.smx] Cleaned map cp_egypt.
+L 01/11/2022 - 18:37:37: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 18:37:37: [soap_tf2dm.smx] No configuration found for cp_egypt_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 18:37:39: [soap_tf2dm.smx] Map spawns missing. Map: cp_egypt_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 18:37:39: [soap_tf2dm.smx] No config for: cp_egypt_final, searching for fallback...
+L 01/11/2022 - 18:37:39: [soap_tf2dm.smx] Cleaned map cp_egypt.
+L 01/11/2022 - 18:37:39: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 18:37:39: [soap_tf2dm.smx] No configuration found for cp_egypt_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 19:07:41: [SM] Changed map to "cp_junction_final"
+L 01/11/2022 - 19:07:41: [SM] Changed map to "cp_junction_final"
+L 01/11/2022 - 19:07:42: [SM] Changed map to "cp_junction_final"
+L 01/11/2022 - 19:07:44: [SM] Changed map to "cp_junction_final"
+L 01/11/2022 - 19:07:48: -------- Mapchange to cp_junction_final --------
+L 01/11/2022 - 19:07:48: -------- Mapchange to cp_junction_final --------
+L 01/11/2022 - 19:07:49: -------- Mapchange to cp_junction_final --------
+L 01/11/2022 - 19:07:51: -------- Mapchange to cp_junction_final --------
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] Map spawns missing. Map: cp_junction_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] No config for: cp_junction_final, searching for fallback...
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] Cleaned map cp_junction.
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] No configuration found for cp_junction_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] Map spawns missing. Map: cp_junction_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] No config for: cp_junction_final, searching for fallback...
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] Cleaned map cp_junction.
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 19:07:54: [soap_tf2dm.smx] No configuration found for cp_junction_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 19:07:55: [soap_tf2dm.smx] Map spawns missing. Map: cp_junction_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 19:07:55: [soap_tf2dm.smx] No config for: cp_junction_final, searching for fallback...
+L 01/11/2022 - 19:07:55: [soap_tf2dm.smx] Cleaned map cp_junction.
+L 01/11/2022 - 19:07:55: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 19:07:55: [soap_tf2dm.smx] No configuration found for cp_junction_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 19:07:56: [soap_tf2dm.smx] Map spawns missing. Map: cp_junction_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 19:07:56: [soap_tf2dm.smx] No config for: cp_junction_final, searching for fallback...
+L 01/11/2022 - 19:07:56: [soap_tf2dm.smx] Cleaned map cp_junction.
+L 01/11/2022 - 19:07:56: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 19:07:56: [soap_tf2dm.smx] No configuration found for cp_junction_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 19:37:59: [SM] Changed map to "plr_pipeline"
+L 01/11/2022 - 19:37:59: [SM] Changed map to "plr_pipeline"
+L 01/11/2022 - 19:38:00: [SM] Changed map to "plr_pipeline"
+L 01/11/2022 - 19:38:01: [SM] Changed map to "plr_pipeline"
+L 01/11/2022 - 19:38:06: -------- Mapchange to plr_pipeline --------
+L 01/11/2022 - 19:38:06: -------- Mapchange to plr_pipeline --------
+L 01/11/2022 - 19:38:07: -------- Mapchange to plr_pipeline --------
+L 01/11/2022 - 19:38:09: -------- Mapchange to plr_pipeline --------
+L 01/11/2022 - 19:38:12: [soap_tf2dm.smx] Map spawns missing. Map: plr_pipeline. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 19:38:12: [soap_tf2dm.smx] No config for: plr_pipeline, searching for fallback...
+L 01/11/2022 - 19:38:12: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 19:38:12: [soap_tf2dm.smx] No configuration found for plr_pipeline, no fallback map found. Using default spawns.
+L 01/11/2022 - 19:38:12: [soap_tf2dm.smx] Map spawns missing. Map: plr_pipeline. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 19:38:12: [soap_tf2dm.smx] No config for: plr_pipeline, searching for fallback...
+L 01/11/2022 - 19:38:12: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 19:38:12: [soap_tf2dm.smx] No configuration found for plr_pipeline, no fallback map found. Using default spawns.
+L 01/11/2022 - 19:38:13: [soap_tf2dm.smx] Map spawns missing. Map: plr_pipeline. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 19:38:13: [soap_tf2dm.smx] No config for: plr_pipeline, searching for fallback...
+L 01/11/2022 - 19:38:13: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 19:38:13: [soap_tf2dm.smx] No configuration found for plr_pipeline, no fallback map found. Using default spawns.
+L 01/11/2022 - 19:38:15: [soap_tf2dm.smx] Map spawns missing. Map: plr_pipeline. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 19:38:15: [soap_tf2dm.smx] No config for: plr_pipeline, searching for fallback...
+L 01/11/2022 - 19:38:15: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 19:38:15: [soap_tf2dm.smx] No configuration found for plr_pipeline, no fallback map found. Using default spawns.
+L 01/11/2022 - 20:08:17: [SM] Changed map to "pl_hoodoo_final"
+L 01/11/2022 - 20:08:17: [SM] Changed map to "pl_hoodoo_final"
+L 01/11/2022 - 20:08:18: [SM] Changed map to "pl_hoodoo_final"
+L 01/11/2022 - 20:08:20: [SM] Changed map to "pl_hoodoo_final"
+L 01/11/2022 - 20:08:26: -------- Mapchange to pl_hoodoo_final --------
+L 01/11/2022 - 20:08:26: -------- Mapchange to pl_hoodoo_final --------
+L 01/11/2022 - 20:08:27: -------- Mapchange to pl_hoodoo_final --------
+L 01/11/2022 - 20:08:29: -------- Mapchange to pl_hoodoo_final --------
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] Map spawns missing. Map: pl_hoodoo_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] No config for: pl_hoodoo_final, searching for fallback...
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] Cleaned map pl_hoodoo.
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] No configuration found for pl_hoodoo_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] Map spawns missing. Map: pl_hoodoo_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] No config for: pl_hoodoo_final, searching for fallback...
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] Cleaned map pl_hoodoo.
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 20:08:32: [soap_tf2dm.smx] No configuration found for pl_hoodoo_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 20:08:33: [soap_tf2dm.smx] Map spawns missing. Map: pl_hoodoo_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 20:08:33: [soap_tf2dm.smx] No config for: pl_hoodoo_final, searching for fallback...
+L 01/11/2022 - 20:08:33: [soap_tf2dm.smx] Cleaned map pl_hoodoo.
+L 01/11/2022 - 20:08:33: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 20:08:33: [soap_tf2dm.smx] No configuration found for pl_hoodoo_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 20:08:35: [soap_tf2dm.smx] Map spawns missing. Map: pl_hoodoo_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 20:08:35: [soap_tf2dm.smx] No config for: pl_hoodoo_final, searching for fallback...
+L 01/11/2022 - 20:08:35: [soap_tf2dm.smx] Cleaned map pl_hoodoo.
+L 01/11/2022 - 20:08:35: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 20:08:35: [soap_tf2dm.smx] No configuration found for pl_hoodoo_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 20:38:37: [SM] Changed map to "koth_sawmill"
+L 01/11/2022 - 20:38:37: [SM] Changed map to "koth_sawmill"
+L 01/11/2022 - 20:38:38: [SM] Changed map to "koth_sawmill"
+L 01/11/2022 - 20:38:40: [SM] Changed map to "koth_sawmill"
+L 01/11/2022 - 20:38:44: -------- Mapchange to koth_sawmill --------
+L 01/11/2022 - 20:38:45: -------- Mapchange to koth_sawmill --------
+L 01/11/2022 - 20:38:46: -------- Mapchange to koth_sawmill --------
+L 01/11/2022 - 20:38:47: -------- Mapchange to koth_sawmill --------
+L 01/11/2022 - 20:38:50: [soap_tf2dm.smx] Map spawns missing. Map: koth_sawmill. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 20:38:50: [soap_tf2dm.smx] No config for: koth_sawmill, searching for fallback...
+L 01/11/2022 - 20:38:50: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 20:38:50: [soap_tf2dm.smx] No configuration found for koth_sawmill, no fallback map found. Using default spawns.
+L 01/11/2022 - 20:38:51: [soap_tf2dm.smx] Map spawns missing. Map: koth_sawmill. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 20:38:51: [soap_tf2dm.smx] No config for: koth_sawmill, searching for fallback...
+L 01/11/2022 - 20:38:51: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 20:38:51: [soap_tf2dm.smx] No configuration found for koth_sawmill, no fallback map found. Using default spawns.
+L 01/11/2022 - 20:38:52: [soap_tf2dm.smx] Map spawns missing. Map: koth_sawmill. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 20:38:52: [soap_tf2dm.smx] No config for: koth_sawmill, searching for fallback...
+L 01/11/2022 - 20:38:52: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 20:38:52: [soap_tf2dm.smx] No configuration found for koth_sawmill, no fallback map found. Using default spawns.
+L 01/11/2022 - 20:38:53: [soap_tf2dm.smx] Map spawns missing. Map: koth_sawmill. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 20:38:53: [soap_tf2dm.smx] No config for: koth_sawmill, searching for fallback...
+L 01/11/2022 - 20:38:53: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 20:38:53: [soap_tf2dm.smx] No configuration found for koth_sawmill, no fallback map found. Using default spawns.
+L 01/11/2022 - 21:08:55: [SM] Changed map to "koth_nucleus"
+L 01/11/2022 - 21:08:56: [SM] Changed map to "koth_nucleus"
+L 01/11/2022 - 21:08:57: [SM] Changed map to "koth_nucleus"
+L 01/11/2022 - 21:08:58: [SM] Changed map to "koth_nucleus"
+L 01/11/2022 - 21:09:03: -------- Mapchange to koth_nucleus --------
+L 01/11/2022 - 21:09:03: -------- Mapchange to koth_nucleus --------
+L 01/11/2022 - 21:09:04: -------- Mapchange to koth_nucleus --------
+L 01/11/2022 - 21:09:06: -------- Mapchange to koth_nucleus --------
+L 01/11/2022 - 21:09:09: [soap_tf2dm.smx] Map spawns missing. Map: koth_nucleus. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 21:09:09: [soap_tf2dm.smx] No config for: koth_nucleus, searching for fallback...
+L 01/11/2022 - 21:09:09: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 21:09:09: [soap_tf2dm.smx] No configuration found for koth_nucleus, no fallback map found. Using default spawns.
+L 01/11/2022 - 21:09:09: [soap_tf2dm.smx] Map spawns missing. Map: koth_nucleus. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 21:09:09: [soap_tf2dm.smx] No config for: koth_nucleus, searching for fallback...
+L 01/11/2022 - 21:09:09: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 21:09:09: [soap_tf2dm.smx] No configuration found for koth_nucleus, no fallback map found. Using default spawns.
+L 01/11/2022 - 21:09:10: [soap_tf2dm.smx] Map spawns missing. Map: koth_nucleus. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 21:09:10: [soap_tf2dm.smx] No config for: koth_nucleus, searching for fallback...
+L 01/11/2022 - 21:09:10: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 21:09:10: [soap_tf2dm.smx] No configuration found for koth_nucleus, no fallback map found. Using default spawns.
+L 01/11/2022 - 21:09:12: [soap_tf2dm.smx] Map spawns missing. Map: koth_nucleus. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 21:09:12: [soap_tf2dm.smx] No config for: koth_nucleus, searching for fallback...
+L 01/11/2022 - 21:09:12: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 21:09:12: [soap_tf2dm.smx] No configuration found for koth_nucleus, no fallback map found. Using default spawns.
+L 01/11/2022 - 21:39:14: [SM] Changed map to "koth_viaduct"
+L 01/11/2022 - 21:39:14: [SM] Changed map to "koth_viaduct"
+L 01/11/2022 - 21:39:15: [SM] Changed map to "koth_viaduct"
+L 01/11/2022 - 21:39:17: [SM] Changed map to "koth_viaduct"
+L 01/11/2022 - 21:39:22: -------- Mapchange to koth_viaduct --------
+L 01/11/2022 - 21:39:22: -------- Mapchange to koth_viaduct --------
+L 01/11/2022 - 21:39:23: -------- Mapchange to koth_viaduct --------
+L 01/11/2022 - 21:39:24: -------- Mapchange to koth_viaduct --------
+L 01/11/2022 - 22:09:33: [SM] Changed map to "ctf_sawmill"
+L 01/11/2022 - 22:09:33: [SM] Changed map to "ctf_sawmill"
+L 01/11/2022 - 22:09:34: [SM] Changed map to "ctf_sawmill"
+L 01/11/2022 - 22:09:35: [SM] Changed map to "ctf_sawmill"
+L 01/11/2022 - 22:09:40: -------- Mapchange to ctf_sawmill --------
+L 01/11/2022 - 22:09:41: -------- Mapchange to ctf_sawmill --------
+L 01/11/2022 - 22:09:42: -------- Mapchange to ctf_sawmill --------
+L 01/11/2022 - 22:09:43: -------- Mapchange to ctf_sawmill --------
+L 01/11/2022 - 22:09:46: [soap_tf2dm.smx] Map spawns missing. Map: ctf_sawmill. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 22:09:46: [soap_tf2dm.smx] No config for: ctf_sawmill, searching for fallback...
+L 01/11/2022 - 22:09:46: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 22:09:46: [soap_tf2dm.smx] No configuration found for ctf_sawmill, no fallback map found. Using default spawns.
+L 01/11/2022 - 22:09:47: [soap_tf2dm.smx] Map spawns missing. Map: ctf_sawmill. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 22:09:47: [soap_tf2dm.smx] No config for: ctf_sawmill, searching for fallback...
+L 01/11/2022 - 22:09:47: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 22:09:47: [soap_tf2dm.smx] No configuration found for ctf_sawmill, no fallback map found. Using default spawns.
+L 01/11/2022 - 22:09:48: [soap_tf2dm.smx] Map spawns missing. Map: ctf_sawmill. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 22:09:48: [soap_tf2dm.smx] No config for: ctf_sawmill, searching for fallback...
+L 01/11/2022 - 22:09:48: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 22:09:48: [soap_tf2dm.smx] No configuration found for ctf_sawmill, no fallback map found. Using default spawns.
+L 01/11/2022 - 22:09:49: [soap_tf2dm.smx] Map spawns missing. Map: ctf_sawmill. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 22:09:49: [soap_tf2dm.smx] No config for: ctf_sawmill, searching for fallback...
+L 01/11/2022 - 22:09:49: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 22:09:49: [soap_tf2dm.smx] No configuration found for ctf_sawmill, no fallback map found. Using default spawns.
+L 01/11/2022 - 22:39:51: [SM] Changed map to "cp_yukon_final"
+L 01/11/2022 - 22:39:52: [SM] Changed map to "cp_yukon_final"
+L 01/11/2022 - 22:39:53: [SM] Changed map to "cp_yukon_final"
+L 01/11/2022 - 22:39:54: [SM] Changed map to "cp_yukon_final"
+L 01/11/2022 - 22:39:59: -------- Mapchange to cp_yukon_final --------
+L 01/11/2022 - 22:40:00: -------- Mapchange to cp_yukon_final --------
+L 01/11/2022 - 22:40:01: -------- Mapchange to cp_yukon_final --------
+L 01/11/2022 - 22:40:02: -------- Mapchange to cp_yukon_final --------
+L 01/11/2022 - 23:10:10: [SM] Changed map to "koth_harvest_final"
+L 01/11/2022 - 23:10:11: [SM] Changed map to "koth_harvest_final"
+L 01/11/2022 - 23:10:12: [SM] Changed map to "koth_harvest_final"
+L 01/11/2022 - 23:10:13: [SM] Changed map to "koth_harvest_final"
+L 01/11/2022 - 23:10:18: -------- Mapchange to koth_harvest_final --------
+L 01/11/2022 - 23:10:19: -------- Mapchange to koth_harvest_final --------
+L 01/11/2022 - 23:10:21: -------- Mapchange to koth_harvest_final --------
+L 01/11/2022 - 23:10:21: -------- Mapchange to koth_harvest_final --------
+L 01/11/2022 - 23:10:24: [soap_tf2dm.smx] Map spawns missing. Map: koth_harvest_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 23:10:24: [soap_tf2dm.smx] No config for: koth_harvest_final, searching for fallback...
+L 01/11/2022 - 23:10:24: [soap_tf2dm.smx] Cleaned map koth_harvest.
+L 01/11/2022 - 23:10:24: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 23:10:24: [soap_tf2dm.smx] No configuration found for koth_harvest_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 23:10:25: [soap_tf2dm.smx] Map spawns missing. Map: koth_harvest_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 23:10:25: [soap_tf2dm.smx] No config for: koth_harvest_final, searching for fallback...
+L 01/11/2022 - 23:10:25: [soap_tf2dm.smx] Cleaned map koth_harvest.
+L 01/11/2022 - 23:10:25: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 23:10:25: [soap_tf2dm.smx] No configuration found for koth_harvest_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 23:10:26: [soap_tf2dm.smx] Map spawns missing. Map: koth_harvest_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 23:10:26: [soap_tf2dm.smx] No config for: koth_harvest_final, searching for fallback...
+L 01/11/2022 - 23:10:26: [soap_tf2dm.smx] Cleaned map koth_harvest.
+L 01/11/2022 - 23:10:26: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 23:10:26: [soap_tf2dm.smx] No configuration found for koth_harvest_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 23:10:27: [soap_tf2dm.smx] Map spawns missing. Map: koth_harvest_final. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 23:10:27: [soap_tf2dm.smx] No config for: koth_harvest_final, searching for fallback...
+L 01/11/2022 - 23:10:27: [soap_tf2dm.smx] Cleaned map koth_harvest.
+L 01/11/2022 - 23:10:27: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 23:10:27: [soap_tf2dm.smx] No configuration found for koth_harvest_final, no fallback map found. Using default spawns.
+L 01/11/2022 - 23:40:29: [SM] Changed map to "ctf_doublecross"
+L 01/11/2022 - 23:40:30: [SM] Changed map to "ctf_doublecross"
+L 01/11/2022 - 23:40:31: [SM] Changed map to "ctf_doublecross"
+L 01/11/2022 - 23:40:32: [SM] Changed map to "ctf_doublecross"
+L 01/11/2022 - 23:40:37: -------- Mapchange to ctf_doublecross --------
+L 01/11/2022 - 23:40:38: -------- Mapchange to ctf_doublecross --------
+L 01/11/2022 - 23:40:40: -------- Mapchange to ctf_doublecross --------
+L 01/11/2022 - 23:40:40: -------- Mapchange to ctf_doublecross --------
+L 01/11/2022 - 23:40:43: [soap_tf2dm.smx] Map spawns missing. Map: ctf_doublecross. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 23:40:43: [soap_tf2dm.smx] No config for: ctf_doublecross, searching for fallback...
+L 01/11/2022 - 23:40:43: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 23:40:43: [soap_tf2dm.smx] No configuration found for ctf_doublecross, no fallback map found. Using default spawns.
+L 01/11/2022 - 23:40:45: [soap_tf2dm.smx] Map spawns missing. Map: ctf_doublecross. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 23:40:45: [soap_tf2dm.smx] No config for: ctf_doublecross, searching for fallback...
+L 01/11/2022 - 23:40:45: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 23:40:45: [soap_tf2dm.smx] No configuration found for ctf_doublecross, no fallback map found. Using default spawns.
+L 01/11/2022 - 23:40:46: [soap_tf2dm.smx] Map spawns missing. Map: ctf_doublecross. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 23:40:46: [soap_tf2dm.smx] No config for: ctf_doublecross, searching for fallback...
+L 01/11/2022 - 23:40:46: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 23:40:46: [soap_tf2dm.smx] No configuration found for ctf_doublecross, no fallback map found. Using default spawns.
+L 01/11/2022 - 23:40:46: [soap_tf2dm.smx] Map spawns missing. Map: ctf_doublecross. SteamWorks is not installed, we can't try to download them!
+L 01/11/2022 - 23:40:46: [soap_tf2dm.smx] No config for: ctf_doublecross, searching for fallback...
+L 01/11/2022 - 23:40:46: [soap_tf2dm.smx] path addons/sourcemod/configs/soap
+L 01/11/2022 - 23:40:46: [soap_tf2dm.smx] No configuration found for ctf_doublecross, no fallback map found. Using default spawns.
+L 01/12/2022 - 00:10:48: Log file closed.
+L 01/12/2022 - 00:10:50: Log file closed.
+L 01/12/2022 - 00:10:51: Log file closed.
+L 01/12/2022 - 00:10:52: Log file closed.

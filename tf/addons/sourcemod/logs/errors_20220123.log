@@ -1,0 +1,46 @@
+L 01/23/2022 - 09:43:29: SourceMod error session started
+L 01/23/2022 - 09:43:29: Info (map "koth_bagel_rc5") (file "/home/server/tf2/tf/addons/sourcemod/logs/errors_20220123.log")
+L 01/23/2022 - 09:43:29: [soap_tf2dm.smx] Spawn at 887.63 -324.79 132.02 clips into the world - needs more space! Aborting...
+L 01/23/2022 - 09:43:29: [soap_tf2dm.smx] Spawn at 1432.03 999.97 -30.96 is outside the world! Aborting...
+L 01/23/2022 - 09:43:29: [soap_tf2dm.smx] Spawn at 231.97 -584.03 196.02 is outside the world! Aborting...
+L 01/23/2022 - 09:43:29: [soap_tf2dm.smx] Spawn at 1160.03 -391.83 193.02 is outside the world! Aborting...
+L 01/23/2022 - 09:43:29: [soap_tf2dm.smx] Spawn at 544.03 1123.96 75.02 clips into the world - needs more space! Aborting...
+L 01/23/2022 - 09:43:29: [soap_tf2dm.smx] Spawn at 544.03 325.94 -14.96 is outside the world! Aborting...
+L 01/23/2022 - 09:43:29: [SM] Exception reported: Invalid index 0 (count: 0)
+L 01/23/2022 - 09:43:29: [SM] Blaming: soap_tf2dm.smx
+L 01/23/2022 - 09:43:29: [SM] Call stack trace:
+L 01/23/2022 - 09:43:29: [SM]   [0] GetArrayArray
+L 01/23/2022 - 09:43:29: [SM]   [1] Line 853, soap_tf2dm.sp::RandomSpawn
+L 01/23/2022 - 09:43:29: [SM] Exception reported: Invalid index 0 (count: 0)
+L 01/23/2022 - 09:43:29: [SM] Blaming: soap_tf2dm.smx
+L 01/23/2022 - 09:43:29: [SM] Call stack trace:
+L 01/23/2022 - 09:43:29: [SM]   [0] GetArrayArray
+L 01/23/2022 - 09:43:29: [SM]   [1] Line 853, soap_tf2dm.sp::RandomSpawn
+L 01/23/2022 - 09:47:35: [soap_tf2dm.smx] Spawn at -544.01 -1123.96 75.02 clips into the world - needs more space! Aborting...
+L 01/23/2022 - 09:47:35: [soap_tf2dm.smx] Spawn at -544.03 -325.79 -14.96 is outside the world! Aborting...
+L 01/23/2022 - 09:47:35: [soap_tf2dm.smx] Spawn at -1168.03 419.95 193.02 is outside the world! Aborting...
+L 01/23/2022 - 09:47:35: [soap_tf2dm.smx] Spawn at -1432.02 -999.97 -30.96 is outside the world! Aborting...
+L 01/23/2022 - 09:47:35: [soap_tf2dm.smx] Spawn at -231.97 584.03 196.02 is outside the world! Aborting...
+L 01/23/2022 - 09:47:36: [soap_tf2dm.smx] Spawn at -887.63 324.79 132.02 clips into the world - needs more space! Aborting...
+L 01/23/2022 - 09:47:36: [SM] Exception reported: Invalid index 0 (count: 0)
+L 01/23/2022 - 09:47:36: [SM] Blaming: soap_tf2dm.smx
+L 01/23/2022 - 09:47:36: [SM] Call stack trace:
+L 01/23/2022 - 09:47:36: [SM]   [0] GetArrayArray
+L 01/23/2022 - 09:47:36: [SM]   [1] Line 863, soap_tf2dm.sp::RandomSpawn
+L 01/23/2022 - 09:48:26: [SM] Exception reported: Invalid index 0 (count: 0)
+L 01/23/2022 - 09:48:26: [SM] Blaming: soap_tf2dm.smx
+L 01/23/2022 - 09:48:26: [SM] Call stack trace:
+L 01/23/2022 - 09:48:26: [SM]   [0] GetArrayArray
+L 01/23/2022 - 09:48:26: [SM]   [1] Line 863, soap_tf2dm.sp::RandomSpawn
+L 01/23/2022 - 09:48:26: [SM]   [2] Line 1577, soap_tf2dm.sp::Event_player_spawn
+L 01/23/2022 - 09:48:26: [SM]   [4] TF2_RespawnPlayer
+L 01/23/2022 - 09:48:26: [SM]   [5] Line 1233, soap_tf2dm.sp::Respawn
+L 01/23/2022 - 09:48:54: [SM] Exception reported: Invalid index 0 (count: 0)
+L 01/23/2022 - 09:48:54: [SM] Blaming: soap_tf2dm.smx
+L 01/23/2022 - 09:48:54: [SM] Call stack trace:
+L 01/23/2022 - 09:48:54: [SM]   [0] GetArrayArray
+L 01/23/2022 - 09:48:54: [SM]   [1] Line 863, soap_tf2dm.sp::RandomSpawn
+L 01/23/2022 - 09:48:54: [SM]   [2] Line 1577, soap_tf2dm.sp::Event_player_spawn
+L 01/23/2022 - 09:48:54: [SM]   [4] TF2_RespawnPlayer
+L 01/23/2022 - 09:48:54: [SM]   [5] Line 1233, soap_tf2dm.sp::Respawn
+L 01/23/2022 - 09:49:08: Error log file session closed.

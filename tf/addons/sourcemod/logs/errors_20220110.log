@@ -1,0 +1,8 @@
+L 01/10/2022 - 15:18:45: SourceMod error session started
+L 01/10/2022 - 15:18:45: Info (map "cp_badlands") (file "/home/server/tf2/tf/addons/sourcemod/logs/errors_20220110.log")
+L 01/10/2022 - 15:18:45: [SM] Exception reported: File Not Found: addons/sourcemod/configs/ozf_advertisements
+L 01/10/2022 - 15:18:45: [SM] Blaming: advertisements.smx
+L 01/10/2022 - 15:18:45: [SM] Call stack trace:
+L 01/10/2022 - 15:18:45: [SM]   [0] SetFailState
+L 01/10/2022 - 15:18:45: [SM]   [1] Line 277, advertisements.sp::ParseAds
+L 01/10/2022 - 15:18:45: [SM]   [2] Line 109, advertisements.sp::ConVarChanged_File

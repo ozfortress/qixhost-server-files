@@ -1,0 +1,40 @@
+// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"			"{turquoise}[OZF] {blue}Looking for the SourceTV Demos? You can find them here: {cyan}https://demos.tf/uploads/76561198049618390"
+        "flags"			"z"
+    }
+    "2"
+    {
+        "chat"			"{turquoise}[OZF] {blue}Not sure how to use the server configs? See our help page: {cyan}https://ozfortress.com/server_configs"
+        "flags"			"z"
+    }
+    "3"
+    {
+        "chat"			"{turquoise}[OZF] {blue}Looking for the logs? You can use the following commands to view them: {cyan}.ss {blue}or {cyan}!logs"
+        "flags"			"z"
+    }
+    "4"
+    {
+        "chat"			"{turquoise}[OZF] {blue}The server will automatically timeout and reset if the server is sitting idle with less than {cyan}2 {blue}players after {cyan}15 {blue}minutes."
+        "flags"			"z"
+    }
+}
