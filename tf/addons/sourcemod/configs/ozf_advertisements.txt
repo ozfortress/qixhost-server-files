@@ -32,9 +32,4 @@
         "chat"			"{turquoise}[OZF] {blue}Looking for the logs? You can use the following commands to view them: {cyan}.ss {blue}or {cyan}!logs"
         "flags"			"z"
     }
-    "4"
-    {
-        "chat"			"{turquoise}[OZF] {blue}The server will automatically timeout and reset if the server is sitting idle with less than {cyan}2 {blue}players after {cyan}15 {blue}minutes."
-        "flags"			"z"
-    }
 }
