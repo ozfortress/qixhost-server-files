@@ -37,7 +37,7 @@
 #include "tf2-comp-fixes/tournament-end-ignores-whitelist.sp"
 #include "tf2-comp-fixes/winger-jump-bonus-when-fully-deployed.sp"
 
-#define PLUGIN_VERSION "1.16.0"
+#define PLUGIN_VERSION "1.16.6"
 
 // clang-format off
 public
@@ -58,11 +58,23 @@ void OnPluginStart() {
         SetFailState("Failed to load addons/sourcemod/gamedata/tf2-comp-fixes.games.txt");
     }
 
-    OperatingSystem Os = GetOs(game_config);
-
-    if (Os != Linux && Os != Windows) {
-        SetFailState("The server's operating system is not supported");
+    // clang-format off
+    switch (GetOs(game_config)) {
+        case Windows: {
+            LogMessage("Support for the server's operating system has been deprecated, "
+                       ... "some features are disabled");
+        }
+        case Mac: {
+            delete game_config;
+            SetFailState("The server's operating system is not supported");
+        }
+        case Unknown: {
+            delete game_config;
+            SetFailState("SourceMod is returning garbage data from addons/sourcemod/gamedata/tf2-comp-fixes.games.txt, "
+                         ... "please try reloading the plugin, SourceMod itself or restart the server");
+        }
     }
+    // clang-format on
 
     RegConsoleCmd("sm_cf", Command_Cf, "Batch update of TF2 Competitive Fixes cvars");
 
@@ -92,6 +104,8 @@ void OnPluginStart() {
     SolidBuildings_Setup();
     TournamentEndIgnoresWhitelist_Setup(game_config);
     WingerJumpBonusWhenFullyDeployed_Setup(game_config);
+
+    delete game_config;
 
     if (LibraryExists("updater")) {
         OnLibraryAdded("updater");
@@ -193,16 +207,16 @@ Action Command_Cf(int client, int args) {
     // Here
     // clang-format off
     FindConVar("sm_deterministic_fall_damage")
-        .SetBool(all || fixes || asf || etf2l || rgl);
+        .SetBool(all || fixes || asf || etf2l || ozf || rgl);
 
     FindConVar("sm_empty_active_ubercharges_when_dropped")
-        .SetBool(all || fixes);
+        .SetBool(all || fixes || etf2l);
 
     FindConVar("sm_fix_ghost_crossbow_bolts")
         .SetBool(all || fixes || etf2l || ozf || rgl);
 
     FindConVar("sm_fix_post_pause_state")
-        .SetBool(all || fixes);
+        .SetBool(all || fixes || etf2l);
 
     FindConVar("sm_fix_reflect_self_damage")
         .SetBool(all || fixes);
@@ -214,10 +228,10 @@ Action Command_Cf(int client, int args) {
         .SetBool(all || fixes || etf2l || ozf || rgl);
 
     FindConVar("sm_inhibit_extendfreeze")
-        .SetBool(all || fixes);
+        .SetBool(all || fixes || etf2l || ozf || rgl);
 
     FindConVar("sm_override_pipe_size")
-        .SetFloat(all || fixes ? 4.0 : 0.0);
+        .SetFloat(all || fixes || etf2l || ozf ? 4.0 : 0.0);
 
     FindConVar("sm_projectiles_collide_with_cylinders")
         .SetBool(all || fixes);
@@ -262,9 +276,8 @@ Action Command_Cf(int client, int args) {
 
 void ReplyDiffConVar(int client, const char[] name) {
     ConVar cvar = FindConVar(name);
-    char   current[128], def[128];
+    char   current[128];
     cvar.GetString(current, sizeof(current));
-    cvar.GetDefault(def, sizeof(def));
 
-    ReplyToCommand(client, "%s %s (default: %s)", name, current, def);
+    ReplyToCommand(client, "%s %s", name, current);
 }
